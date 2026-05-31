@@ -1,0 +1,931 @@
+soc_id	var_id	code	title	category	pref_name_for_society	Lat	Long	region
+SCCS1	SCCS3	1.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Nama	-27.5	17.0	Africa
+SCCS1	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Nama	-27.5	17.0	Africa
+SCCS1	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Nama	-27.5	17.0	Africa
+SCCS1	SCCS69	3.0	Marital Residence	Settlement, Community	Nama	-27.5	17.0	Africa
+SCCS1	SCCS826	26.0	Average Female Contribution to Subsistence	Gender, Data Quality	Nama	-27.5	17.0	Africa
+SCCS10	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Luguru	-6.83	37.67	Africa
+SCCS10	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Luguru	-6.83	37.67	Africa
+SCCS10	SCCS64	7.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Luguru	-6.83	37.67	Africa
+SCCS10	SCCS69	1.0	Marital Residence	Settlement, Community	Luguru	-6.83	37.67	Africa
+SCCS10	SCCS826	40.0	Average Female Contribution to Subsistence	Gender, Data Quality	Luguru	-6.83	37.67	Africa
+SCCS100	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Tikopia	-12.29	168.83	Insular Pacific
+SCCS100	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Tikopia	-12.29	168.83	Insular Pacific
+SCCS100	SCCS64	6.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Tikopia	-12.29	168.83	Insular Pacific
+SCCS100	SCCS69	3.0	Marital Residence	Settlement, Community	Tikopia	-12.29	168.83	Insular Pacific
+SCCS100	SCCS826	30.0	Average Female Contribution to Subsistence	Gender, Data Quality	Tikopia	-12.29	168.83	Insular Pacific
+SCCS101	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Bunlap	-15.95	168.22	Insular Pacific
+SCCS101	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Bunlap	-15.95	168.22	Insular Pacific
+SCCS101	SCCS64	4.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Bunlap	-15.95	168.22	Insular Pacific
+SCCS101	SCCS69	3.0	Marital Residence	Settlement, Community	Bunlap	-15.95	168.22	Insular Pacific
+SCCS101	SCCS826		Average Female Contribution to Subsistence	Gender, Data Quality	Bunlap	-15.95	168.22	Insular Pacific
+SCCS102	SCCS3	4.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Mbau Fijians	-18.0	178.58	Insular Pacific
+SCCS102	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Mbau Fijians	-18.0	178.58	Insular Pacific
+SCCS102	SCCS64	7.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Mbau Fijians	-18.0	178.58	Insular Pacific
+SCCS102	SCCS69	3.0	Marital Residence	Settlement, Community	Mbau Fijians	-18.0	178.58	Insular Pacific
+SCCS102	SCCS826	28.0	Average Female Contribution to Subsistence	Gender, Data Quality	Mbau Fijians	-18.0	178.58	Insular Pacific
+SCCS103	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Ajie	-21.33	165.67	Insular Pacific
+SCCS103	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Ajie	-21.33	165.67	Insular Pacific
+SCCS103	SCCS64	3.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Ajie	-21.33	165.67	Insular Pacific
+SCCS103	SCCS69	3.0	Marital Residence	Settlement, Community	Ajie	-21.33	165.67	Insular Pacific
+SCCS103	SCCS826	47.0	Average Female Contribution to Subsistence	Gender, Data Quality	Ajie	-21.33	165.67	Insular Pacific
+SCCS104	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Māori	-35.33	174.17	Insular Pacific
+SCCS104	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Māori	-35.33	174.17	Insular Pacific
+SCCS104	SCCS64	2.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Māori	-35.33	174.17	Insular Pacific
+SCCS104	SCCS69	3.0	Marital Residence	Settlement, Community	Māori	-35.33	174.17	Insular Pacific
+SCCS104	SCCS826	31.0	Average Female Contribution to Subsistence	Gender, Data Quality	Māori	-35.33	174.17	Insular Pacific
+SCCS105	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Marquesans	-8.92	-140.17	Insular Pacific
+SCCS105	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Marquesans	-8.92	-140.17	Insular Pacific
+SCCS105	SCCS64	5.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Marquesans	-8.92	-140.17	Insular Pacific
+SCCS105	SCCS69	5.0	Marital Residence	Settlement, Community	Marquesans	-8.92	-140.17	Insular Pacific
+SCCS105	SCCS826	18.0	Average Female Contribution to Subsistence	Gender, Data Quality	Marquesans	-8.92	-140.17	Insular Pacific
+SCCS106	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Upolu Samoans	-13.94	-171.77	Insular Pacific
+SCCS106	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Upolu Samoans	-13.94	-171.77	Insular Pacific
+SCCS106	SCCS64	6.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Upolu Samoans	-13.94	-171.77	Insular Pacific
+SCCS106	SCCS69	3.0	Marital Residence	Settlement, Community	Upolu Samoans	-13.94	-171.77	Insular Pacific
+SCCS106	SCCS826	33.0	Average Female Contribution to Subsistence	Gender, Data Quality	Upolu Samoans	-13.94	-171.77	Insular Pacific
+SCCS107	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Makin	3.38	172.99	Insular Pacific
+SCCS107	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Makin	3.38	172.99	Insular Pacific
+SCCS107	SCCS64	6.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Makin	3.38	172.99	Insular Pacific
+SCCS107	SCCS69	3.0	Marital Residence	Settlement, Community	Makin	3.38	172.99	Insular Pacific
+SCCS107	SCCS826	41.0	Average Female Contribution to Subsistence	Gender, Data Quality	Makin	3.38	172.99	Insular Pacific
+SCCS108	SCCS3	4.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Marshallese - Jaluit Atoll	6.28	169.49	Insular Pacific
+SCCS108	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Marshallese - Jaluit Atoll	6.28	169.49	Insular Pacific
+SCCS108	SCCS64	6.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Marshallese - Jaluit Atoll	6.28	169.49	Insular Pacific
+SCCS108	SCCS69	1.0	Marital Residence	Settlement, Community	Marshallese - Jaluit Atoll	6.28	169.49	Insular Pacific
+SCCS108	SCCS826	26.0	Average Female Contribution to Subsistence	Gender, Data Quality	Marshallese - Jaluit Atoll	6.28	169.49	Insular Pacific
+SCCS109	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Trukese	7.34	151.6	Insular Pacific
+SCCS109	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Trukese	7.34	151.6	Insular Pacific
+SCCS109	SCCS64	7.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Trukese	7.34	151.6	Insular Pacific
+SCCS109	SCCS69	1.0	Marital Residence	Settlement, Community	Trukese	7.34	151.6	Insular Pacific
+SCCS109	SCCS826	31.0	Average Female Contribution to Subsistence	Gender, Data Quality	Trukese	7.34	151.6	Insular Pacific
+SCCS11	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Kikuyu	-0.67	37.17	Africa
+SCCS11	SCCS588	2.0	Community-wide Exclusively Female Work Groups	Gender	Kikuyu	-0.67	37.17	Africa
+SCCS11	SCCS64	6.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Kikuyu	-0.67	37.17	Africa
+SCCS11	SCCS69	3.0	Marital Residence	Settlement, Community	Kikuyu	-0.67	37.17	Africa
+SCCS11	SCCS826	47.0	Average Female Contribution to Subsistence	Gender, Data Quality	Kikuyu	-0.67	37.17	Africa
+SCCS110	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Yapese	9.52	138.16	Insular Pacific
+SCCS110	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Yapese	9.52	138.16	Insular Pacific
+SCCS110	SCCS64	5.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Yapese	9.52	138.16	Insular Pacific
+SCCS110	SCCS69	3.0	Marital Residence	Settlement, Community	Yapese	9.52	138.16	Insular Pacific
+SCCS110	SCCS826	41.0	Average Female Contribution to Subsistence	Gender, Data Quality	Yapese	9.52	138.16	Insular Pacific
+SCCS111	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Palauans	7.5	134.5	Insular Pacific
+SCCS111	SCCS588	2.0	Community-wide Exclusively Female Work Groups	Gender	Palauans	7.5	134.5	Insular Pacific
+SCCS111	SCCS64	5.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Palauans	7.5	134.5	Insular Pacific
+SCCS111	SCCS69	2.0	Marital Residence	Settlement, Community	Palauans	7.5	134.5	Insular Pacific
+SCCS111	SCCS826	49.0	Average Female Contribution to Subsistence	Gender, Data Quality	Palauans	7.5	134.5	Insular Pacific
+SCCS112	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Ifugao	16.83	121.17	Insular Pacific
+SCCS112	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Ifugao	16.83	121.17	Insular Pacific
+SCCS112	SCCS64	6.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Ifugao	16.83	121.17	Insular Pacific
+SCCS112	SCCS69	4.0	Marital Residence	Settlement, Community	Ifugao	16.83	121.17	Insular Pacific
+SCCS112	SCCS826	61.0	Average Female Contribution to Subsistence	Gender, Data Quality	Ifugao	16.83	121.17	Insular Pacific
+SCCS113	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Atayal	24.33	120.75	Insular Pacific
+SCCS113	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Atayal	24.33	120.75	Insular Pacific
+SCCS113	SCCS64	4.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Atayal	24.33	120.75	Insular Pacific
+SCCS113	SCCS69	3.0	Marital Residence	Settlement, Community	Atayal	24.33	120.75	Insular Pacific
+SCCS113	SCCS826	44.0	Average Female Contribution to Subsistence	Gender, Data Quality	Atayal	24.33	120.75	Insular Pacific
+SCCS114	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Chekiang	31.0	120.08	East Eurasia
+SCCS114	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Chekiang	31.0	120.08	East Eurasia
+SCCS114	SCCS64	7.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Chekiang	31.0	120.08	East Eurasia
+SCCS114	SCCS69	3.0	Marital Residence	Settlement, Community	Chekiang	31.0	120.08	East Eurasia
+SCCS114	SCCS826	7.0	Average Female Contribution to Subsistence	Gender, Data Quality	Chekiang	31.0	120.08	East Eurasia
+SCCS115	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Manchu	50.0	125.5	East Eurasia
+SCCS115	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Manchu	50.0	125.5	East Eurasia
+SCCS115	SCCS64	6.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Manchu	50.0	125.5	East Eurasia
+SCCS115	SCCS69	3.0	Marital Residence	Settlement, Community	Manchu	50.0	125.5	East Eurasia
+SCCS115	SCCS826	34.0	Average Female Contribution to Subsistence	Gender, Data Quality	Manchu	50.0	125.5	East Eurasia
+SCCS116	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Koreans	37.6	126.42	East Eurasia
+SCCS116	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Koreans	37.6	126.42	East Eurasia
+SCCS116	SCCS64	7.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Koreans	37.6	126.42	East Eurasia
+SCCS116	SCCS69	3.0	Marital Residence	Settlement, Community	Koreans	37.6	126.42	East Eurasia
+SCCS116	SCCS826	32.0	Average Female Contribution to Subsistence	Gender, Data Quality	Koreans	37.6	126.42	East Eurasia
+SCCS117	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Japanese	34.67	133.67	East Eurasia
+SCCS117	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Japanese	34.67	133.67	East Eurasia
+SCCS117	SCCS64	7.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Japanese	34.67	133.67	East Eurasia
+SCCS117	SCCS69	3.0	Marital Residence	Settlement, Community	Japanese	34.67	133.67	East Eurasia
+SCCS117	SCCS826	38.0	Average Female Contribution to Subsistence	Gender, Data Quality	Japanese	34.67	133.67	East Eurasia
+SCCS118	SCCS3	3.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Ainu	42.83	143.0	East Eurasia
+SCCS118	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Ainu	42.83	143.0	East Eurasia
+SCCS118	SCCS64	2.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Ainu	42.83	143.0	East Eurasia
+SCCS118	SCCS69	3.0	Marital Residence	Settlement, Community	Ainu	42.83	143.0	East Eurasia
+SCCS118	SCCS826	38.0	Average Female Contribution to Subsistence	Gender, Data Quality	Ainu	42.83	143.0	East Eurasia
+SCCS119	SCCS3	1.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Nivkh	53.0	142.0	East Eurasia
+SCCS119	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Nivkh	53.0	142.0	East Eurasia
+SCCS119	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Nivkh	53.0	142.0	East Eurasia
+SCCS119	SCCS69	3.0	Marital Residence	Settlement, Community	Nivkh	53.0	142.0	East Eurasia
+SCCS119	SCCS826	27.0	Average Female Contribution to Subsistence	Gender, Data Quality	Nivkh	53.0	142.0	East Eurasia
+SCCS12	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Ganda	0.33	32.5	Africa
+SCCS12	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Ganda	0.33	32.5	Africa
+SCCS12	SCCS64	6.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Ganda	0.33	32.5	Africa
+SCCS12	SCCS69	5.0	Marital Residence	Settlement, Community	Ganda	0.33	32.5	Africa
+SCCS12	SCCS826	56.0	Average Female Contribution to Subsistence	Gender, Data Quality	Ganda	0.33	32.5	Africa
+SCCS120	SCCS3	1.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Yukaghir	64.75	153.5	East Eurasia
+SCCS120	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Yukaghir	64.75	153.5	East Eurasia
+SCCS120	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Yukaghir	64.75	153.5	East Eurasia
+SCCS120	SCCS69	4.0	Marital Residence	Settlement, Community	Yukaghir	64.75	153.5	East Eurasia
+SCCS120	SCCS826	0.0	Average Female Contribution to Subsistence	Gender, Data Quality	Yukaghir	64.75	153.5	East Eurasia
+SCCS121	SCCS3	1.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Chukchi	66.5	179.6	East Eurasia
+SCCS121	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Chukchi	66.5	179.6	East Eurasia
+SCCS121	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Chukchi	66.5	179.6	East Eurasia
+SCCS121	SCCS69	3.0	Marital Residence	Settlement, Community	Chukchi	66.5	179.6	East Eurasia
+SCCS121	SCCS826	23.0	Average Female Contribution to Subsistence	Gender, Data Quality	Chukchi	66.5	179.6	East Eurasia
+SCCS122	SCCS3	1.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Deg Xit'an	62.5	-159.5	North America
+SCCS122	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Deg Xit'an	62.5	-159.5	North America
+SCCS122	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Deg Xit'an	62.5	-159.5	North America
+SCCS122	SCCS69	1.0	Marital Residence	Settlement, Community	Deg Xit'an	62.5	-159.5	North America
+SCCS122	SCCS826	26.0	Average Female Contribution to Subsistence	Gender, Data Quality	Deg Xit'an	62.5	-159.5	North America
+SCCS123	SCCS3	1.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Aleut	55.0	-162.85	North America
+SCCS123	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Aleut	55.0	-162.85	North America
+SCCS123	SCCS64	4.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Aleut	55.0	-162.85	North America
+SCCS123	SCCS69	3.0	Marital Residence	Settlement, Community	Aleut	55.0	-162.85	North America
+SCCS123	SCCS826	35.0	Average Female Contribution to Subsistence	Gender, Data Quality	Aleut	55.0	-162.85	North America
+SCCS124	SCCS3	1.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Copper Inuit	68.72	-112.53	North America
+SCCS124	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Copper Inuit	68.72	-112.53	North America
+SCCS124	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Copper Inuit	68.72	-112.53	North America
+SCCS124	SCCS69	5.0	Marital Residence	Settlement, Community	Copper Inuit	68.72	-112.53	North America
+SCCS124	SCCS826	16.0	Average Female Contribution to Subsistence	Gender, Data Quality	Copper Inuit	68.72	-112.53	North America
+SCCS125	SCCS3	1.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Montagnais	50.0	-74.0	North America
+SCCS125	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Montagnais	50.0	-74.0	North America
+SCCS125	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Montagnais	50.0	-74.0	North America
+SCCS125	SCCS69	3.0	Marital Residence	Settlement, Community	Montagnais	50.0	-74.0	North America
+SCCS125	SCCS826	32.0	Average Female Contribution to Subsistence	Gender, Data Quality	Montagnais	50.0	-74.0	North America
+SCCS126	SCCS3	1.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Mi'kmaq	46.99	-65.0	North America
+SCCS126	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Mi'kmaq	46.99	-65.0	North America
+SCCS126	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Mi'kmaq	46.99	-65.0	North America
+SCCS126	SCCS69	5.0	Marital Residence	Settlement, Community	Mi'kmaq	46.99	-65.0	North America
+SCCS126	SCCS826	8.0	Average Female Contribution to Subsistence	Gender, Data Quality	Mi'kmaq	46.99	-65.0	North America
+SCCS127	SCCS3	3.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Northern Saulteaux	52.0	-95.5	North America
+SCCS127	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Northern Saulteaux	52.0	-95.5	North America
+SCCS127	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Northern Saulteaux	52.0	-95.5	North America
+SCCS127	SCCS69	3.0	Marital Residence	Settlement, Community	Northern Saulteaux	52.0	-95.5	North America
+SCCS127	SCCS826	10.0	Average Female Contribution to Subsistence	Gender, Data Quality	Northern Saulteaux	52.0	-95.5	North America
+SCCS128	SCCS3	3.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	DeneTha	62.0	-122.0	North America
+SCCS128	SCCS588		Community-wide Exclusively Female Work Groups	Gender	DeneTha	62.0	-122.0	North America
+SCCS128	SCCS64	2.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	DeneTha	62.0	-122.0	North America
+SCCS128	SCCS69	3.0	Marital Residence	Settlement, Community	DeneTha	62.0	-122.0	North America
+SCCS128	SCCS826	10.0	Average Female Contribution to Subsistence	Gender, Data Quality	DeneTha	62.0	-122.0	North America
+SCCS129	SCCS3	1.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Kaska	60.0	-131.0	North America
+SCCS129	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Kaska	60.0	-131.0	North America
+SCCS129	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Kaska	60.0	-131.0	North America
+SCCS129	SCCS69	1.0	Marital Residence	Settlement, Community	Kaska	60.0	-131.0	North America
+SCCS129	SCCS826	24.0	Average Female Contribution to Subsistence	Gender, Data Quality	Kaska	60.0	-131.0	North America
+SCCS13	SCCS3	1.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Mbuti	1.5	28.33	Africa
+SCCS13	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Mbuti	1.5	28.33	Africa
+SCCS13	SCCS64	2.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Mbuti	1.5	28.33	Africa
+SCCS13	SCCS69	3.0	Marital Residence	Settlement, Community	Mbuti	1.5	28.33	Africa
+SCCS13	SCCS826	44.0	Average Female Contribution to Subsistence	Gender, Data Quality	Mbuti	1.5	28.33	Africa
+SCCS130	SCCS3	1.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Eyak	60.5	-145.0	North America
+SCCS130	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Eyak	60.5	-145.0	North America
+SCCS130	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Eyak	60.5	-145.0	North America
+SCCS130	SCCS69	2.0	Marital Residence	Settlement, Community	Eyak	60.5	-145.0	North America
+SCCS130	SCCS826	8.0	Average Female Contribution to Subsistence	Gender, Data Quality	Eyak	60.5	-145.0	North America
+SCCS131	SCCS3	2.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Haida	54.0	-132.5	North America
+SCCS131	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Haida	54.0	-132.5	North America
+SCCS131	SCCS64	2.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Haida	54.0	-132.5	North America
+SCCS131	SCCS69	2.0	Marital Residence	Settlement, Community	Haida	54.0	-132.5	North America
+SCCS131	SCCS826	33.0	Average Female Contribution to Subsistence	Gender, Data Quality	Haida	54.0	-132.5	North America
+SCCS132	SCCS3	1.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Nuxalk	52.33	-126.5	North America
+SCCS132	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Nuxalk	52.33	-126.5	North America
+SCCS132	SCCS64	3.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Nuxalk	52.33	-126.5	North America
+SCCS132	SCCS69	3.0	Marital Residence	Settlement, Community	Nuxalk	52.33	-126.5	North America
+SCCS132	SCCS826	32.0	Average Female Contribution to Subsistence	Gender, Data Quality	Nuxalk	52.33	-126.5	North America
+SCCS133	SCCS3	1.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Twana	47.43	-123.25	North America
+SCCS133	SCCS588	2.0	Community-wide Exclusively Female Work Groups	Gender	Twana	47.43	-123.25	North America
+SCCS133	SCCS64	5.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Twana	47.43	-123.25	North America
+SCCS133	SCCS69	3.0	Marital Residence	Settlement, Community	Twana	47.43	-123.25	North America
+SCCS133	SCCS826	32.0	Average Female Contribution to Subsistence	Gender, Data Quality	Twana	47.43	-123.25	North America
+SCCS134	SCCS3	1.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Yurok	41.5	-124.0	North America
+SCCS134	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Yurok	41.5	-124.0	North America
+SCCS134	SCCS64	3.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Yurok	41.5	-124.0	North America
+SCCS134	SCCS69	3.0	Marital Residence	Settlement, Community	Yurok	41.5	-124.0	North America
+SCCS134	SCCS826	27.0	Average Female Contribution to Subsistence	Gender, Data Quality	Yurok	41.5	-124.0	North America
+SCCS135	SCCS3	1.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Eastern Pomo	39.0	-123.0	North America
+SCCS135	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Eastern Pomo	39.0	-123.0	North America
+SCCS135	SCCS64	3.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Eastern Pomo	39.0	-123.0	North America
+SCCS135	SCCS69	4.0	Marital Residence	Settlement, Community	Eastern Pomo	39.0	-123.0	North America
+SCCS135	SCCS826	36.0	Average Female Contribution to Subsistence	Gender, Data Quality	Eastern Pomo	39.0	-123.0	North America
+SCCS136	SCCS3	1.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Southern Valley Yokuts	35.0	-119.5	North America
+SCCS136	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Southern Valley Yokuts	35.0	-119.5	North America
+SCCS136	SCCS64	4.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Southern Valley Yokuts	35.0	-119.5	North America
+SCCS136	SCCS69	3.0	Marital Residence	Settlement, Community	Southern Valley Yokuts	35.0	-119.5	North America
+SCCS136	SCCS826	21.0	Average Female Contribution to Subsistence	Gender, Data Quality	Southern Valley Yokuts	35.0	-119.5	North America
+SCCS137	SCCS3	1.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Wadadokado	43.5	-119.0	North America
+SCCS137	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Wadadokado	43.5	-119.0	North America
+SCCS137	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Wadadokado	43.5	-119.0	North America
+SCCS137	SCCS69	4.0	Marital Residence	Settlement, Community	Wadadokado	43.5	-119.0	North America
+SCCS137	SCCS826	40.0	Average Female Contribution to Subsistence	Gender, Data Quality	Wadadokado	43.5	-119.0	North America
+SCCS138	SCCS3	1.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Klamath	42.63	-121.67	North America
+SCCS138	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Klamath	42.63	-121.67	North America
+SCCS138	SCCS64	2.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Klamath	42.63	-121.67	North America
+SCCS138	SCCS69	3.0	Marital Residence	Settlement, Community	Klamath	42.63	-121.67	North America
+SCCS138	SCCS826	44.0	Average Female Contribution to Subsistence	Gender, Data Quality	Klamath	42.63	-121.67	North America
+SCCS139	SCCS3	2.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Kutenai	49.0	-116.67	North America
+SCCS139	SCCS588	2.0	Community-wide Exclusively Female Work Groups	Gender	Kutenai	49.0	-116.67	North America
+SCCS139	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Kutenai	49.0	-116.67	North America
+SCCS139	SCCS69	1.0	Marital Residence	Settlement, Community	Kutenai	49.0	-116.67	North America
+SCCS139	SCCS826	26.0	Average Female Contribution to Subsistence	Gender, Data Quality	Kutenai	49.0	-116.67	North America
+SCCS14	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Nkundo	-0.75	19.17	Africa
+SCCS14	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Nkundo	-0.75	19.17	Africa
+SCCS14	SCCS64	3.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Nkundo	-0.75	19.17	Africa
+SCCS14	SCCS69	3.0	Marital Residence	Settlement, Community	Nkundo	-0.75	19.17	Africa
+SCCS14	SCCS826	78.0	Average Female Contribution to Subsistence	Gender, Data Quality	Nkundo	-0.75	19.17	Africa
+SCCS140	SCCS3	1.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Gros Ventre	48.0	-108.0	North America
+SCCS140	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Gros Ventre	48.0	-108.0	North America
+SCCS140	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Gros Ventre	48.0	-108.0	North America
+SCCS140	SCCS69	3.0	Marital Residence	Settlement, Community	Gros Ventre	48.0	-108.0	North America
+SCCS140	SCCS826	26.0	Average Female Contribution to Subsistence	Gender, Data Quality	Gros Ventre	48.0	-108.0	North America
+SCCS141	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Hidatsa	47.0	-101.0	North America
+SCCS141	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Hidatsa	47.0	-101.0	North America
+SCCS141	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Hidatsa	47.0	-101.0	North America
+SCCS141	SCCS69	1.0	Marital Residence	Settlement, Community	Hidatsa	47.0	-101.0	North America
+SCCS141	SCCS826	79.0	Average Female Contribution to Subsistence	Gender, Data Quality	Hidatsa	47.0	-101.0	North America
+SCCS142	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Pawnee	42.0	-100.0	North America
+SCCS142	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Pawnee	42.0	-100.0	North America
+SCCS142	SCCS64	2.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Pawnee	42.0	-100.0	North America
+SCCS142	SCCS69	1.0	Marital Residence	Settlement, Community	Pawnee	42.0	-100.0	North America
+SCCS142	SCCS826	42.0	Average Female Contribution to Subsistence	Gender, Data Quality	Pawnee	42.0	-100.0	North America
+SCCS143	SCCS3	4.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Omaha	41.43	-96.5	North America
+SCCS143	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Omaha	41.43	-96.5	North America
+SCCS143	SCCS64	3.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Omaha	41.43	-96.5	North America
+SCCS143	SCCS69	4.0	Marital Residence	Settlement, Community	Omaha	41.43	-96.5	North America
+SCCS143	SCCS826	34.0	Average Female Contribution to Subsistence	Gender, Data Quality	Omaha	41.43	-96.5	North America
+SCCS144	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Huron	44.5	-79.0	North America
+SCCS144	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Huron	44.5	-79.0	North America
+SCCS144	SCCS64	5.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Huron	44.5	-79.0	North America
+SCCS144	SCCS69	1.0	Marital Residence	Settlement, Community	Huron	44.5	-79.0	North America
+SCCS144	SCCS826	46.0	Average Female Contribution to Subsistence	Gender, Data Quality	Huron	44.5	-79.0	North America
+SCCS145	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Muscogee	32.93	-86.0	North America
+SCCS145	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Muscogee	32.93	-86.0	North America
+SCCS145	SCCS64	3.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Muscogee	32.93	-86.0	North America
+SCCS145	SCCS69	1.0	Marital Residence	Settlement, Community	Muscogee	32.93	-86.0	North America
+SCCS145	SCCS826	33.0	Average Female Contribution to Subsistence	Gender, Data Quality	Muscogee	32.93	-86.0	North America
+SCCS146	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Natchez	31.5	-91.42	North America
+SCCS146	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Natchez	31.5	-91.42	North America
+SCCS146	SCCS64	4.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Natchez	31.5	-91.42	North America
+SCCS146	SCCS69	3.0	Marital Residence	Settlement, Community	Natchez	31.5	-91.42	North America
+SCCS146	SCCS826	24.0	Average Female Contribution to Subsistence	Gender, Data Quality	Natchez	31.5	-91.42	North America
+SCCS147	SCCS3	1.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Comanche	34.0	-101.5	North America
+SCCS147	SCCS588	2.0	Community-wide Exclusively Female Work Groups	Gender	Comanche	34.0	-101.5	North America
+SCCS147	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Comanche	34.0	-101.5	North America
+SCCS147	SCCS69	3.0	Marital Residence	Settlement, Community	Comanche	34.0	-101.5	North America
+SCCS147	SCCS826	16.0	Average Female Contribution to Subsistence	Gender, Data Quality	Comanche	34.0	-101.5	North America
+SCCS148	SCCS3	3.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Chiricahua	32.0	-109.5	North America
+SCCS148	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Chiricahua	32.0	-109.5	North America
+SCCS148	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Chiricahua	32.0	-109.5	North America
+SCCS148	SCCS69	1.0	Marital Residence	Settlement, Community	Chiricahua	32.0	-109.5	North America
+SCCS148	SCCS826	55.0	Average Female Contribution to Subsistence	Gender, Data Quality	Chiricahua	32.0	-109.5	North America
+SCCS149	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Zuni	35.67	-108.75	North America
+SCCS149	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Zuni	35.67	-108.75	North America
+SCCS149	SCCS64	3.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Zuni	35.67	-108.75	North America
+SCCS149	SCCS69	1.0	Marital Residence	Settlement, Community	Zuni	35.67	-108.75	North America
+SCCS149	SCCS826	21.0	Average Female Contribution to Subsistence	Gender, Data Quality	Zuni	35.67	-108.75	North America
+SCCS15	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Banen	4.67	10.8	Africa
+SCCS15	SCCS588	2.0	Community-wide Exclusively Female Work Groups	Gender	Banen	4.67	10.8	Africa
+SCCS15	SCCS64	4.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Banen	4.67	10.8	Africa
+SCCS15	SCCS69	3.0	Marital Residence	Settlement, Community	Banen	4.67	10.8	Africa
+SCCS15	SCCS826	70.0	Average Female Contribution to Subsistence	Gender, Data Quality	Banen	4.67	10.8	Africa
+SCCS150	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Havasupai	35.83	-112.17	North America
+SCCS150	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Havasupai	35.83	-112.17	North America
+SCCS150	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Havasupai	35.83	-112.17	North America
+SCCS150	SCCS69	3.0	Marital Residence	Settlement, Community	Havasupai	35.83	-112.17	North America
+SCCS150	SCCS826	33.0	Average Female Contribution to Subsistence	Gender, Data Quality	Havasupai	35.83	-112.17	North America
+SCCS151	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Tohono O'odham	32.0	-112.0	North America
+SCCS151	SCCS588	2.0	Community-wide Exclusively Female Work Groups	Gender	Tohono O'odham	32.0	-112.0	North America
+SCCS151	SCCS64	5.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Tohono O'odham	32.0	-112.0	North America
+SCCS151	SCCS69	3.0	Marital Residence	Settlement, Community	Tohono O'odham	32.0	-112.0	North America
+SCCS151	SCCS826	38.0	Average Female Contribution to Subsistence	Gender, Data Quality	Tohono O'odham	32.0	-112.0	North America
+SCCS152	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Huichol	22.0	-105.0	North America
+SCCS152	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Huichol	22.0	-105.0	North America
+SCCS152	SCCS64	3.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Huichol	22.0	-105.0	North America
+SCCS152	SCCS69	4.0	Marital Residence	Settlement, Community	Huichol	22.0	-105.0	North America
+SCCS152	SCCS826	31.0	Average Female Contribution to Subsistence	Gender, Data Quality	Huichol	22.0	-105.0	North America
+SCCS153	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Aztec	19.0	-99.17	North America
+SCCS153	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Aztec	19.0	-99.17	North America
+SCCS153	SCCS64	7.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Aztec	19.0	-99.17	North America
+SCCS153	SCCS69	3.0	Marital Residence	Settlement, Community	Aztec	19.0	-99.17	North America
+SCCS153	SCCS826	35.0	Average Female Contribution to Subsistence	Gender, Data Quality	Aztec	19.0	-99.17	North America
+SCCS154	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Sierra Popoluca	18.25	-94.83	North America
+SCCS154	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Sierra Popoluca	18.25	-94.83	North America
+SCCS154	SCCS64	5.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Sierra Popoluca	18.25	-94.83	North America
+SCCS154	SCCS69	3.0	Marital Residence	Settlement, Community	Sierra Popoluca	18.25	-94.83	North America
+SCCS154	SCCS826	33.0	Average Female Contribution to Subsistence	Gender, Data Quality	Sierra Popoluca	18.25	-94.83	North America
+SCCS155	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	K'iche'	15.0	-91.0	South America
+SCCS155	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	K'iche'	15.0	-91.0	South America
+SCCS155	SCCS64	5.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	K'iche'	15.0	-91.0	South America
+SCCS155	SCCS69	3.0	Marital Residence	Settlement, Community	K'iche'	15.0	-91.0	South America
+SCCS155	SCCS826	3.0	Average Female Contribution to Subsistence	Gender, Data Quality	K'iche'	15.0	-91.0	South America
+SCCS156	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Miskito	15.16	-84.29	South America
+SCCS156	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Miskito	15.16	-84.29	South America
+SCCS156	SCCS64	4.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Miskito	15.16	-84.29	South America
+SCCS156	SCCS69	1.0	Marital Residence	Settlement, Community	Miskito	15.16	-84.29	South America
+SCCS156	SCCS826	43.0	Average Female Contribution to Subsistence	Gender, Data Quality	Miskito	15.16	-84.29	South America
+SCCS157	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Bribri	9.0	-83.25	South America
+SCCS157	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Bribri	9.0	-83.25	South America
+SCCS157	SCCS64		Population Density (from Murdock and Wilson Data)	Settlement, Community	Bribri	9.0	-83.25	South America
+SCCS157	SCCS69	1.0	Marital Residence	Settlement, Community	Bribri	9.0	-83.25	South America
+SCCS157	SCCS826	4.0	Average Female Contribution to Subsistence	Gender, Data Quality	Bribri	9.0	-83.25	South America
+SCCS158	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Guna	9.25	-78.5	South America
+SCCS158	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Guna	9.25	-78.5	South America
+SCCS158	SCCS64	5.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Guna	9.25	-78.5	South America
+SCCS158	SCCS69	1.0	Marital Residence	Settlement, Community	Guna	9.25	-78.5	South America
+SCCS158	SCCS826	13.0	Average Female Contribution to Subsistence	Gender, Data Quality	Guna	9.25	-78.5	South America
+SCCS159	SCCS3	3.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Wayuu	11.92	-71.75	South America
+SCCS159	SCCS588	2.0	Community-wide Exclusively Female Work Groups	Gender	Wayuu	11.92	-71.75	South America
+SCCS159	SCCS64	2.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Wayuu	11.92	-71.75	South America
+SCCS159	SCCS69	1.0	Marital Residence	Settlement, Community	Wayuu	11.92	-71.75	South America
+SCCS159	SCCS826	31.0	Average Female Contribution to Subsistence	Gender, Data Quality	Wayuu	11.92	-71.75	South America
+SCCS16	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Tiv	7.25	9.0	Africa
+SCCS16	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Tiv	7.25	9.0	Africa
+SCCS16	SCCS64	5.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Tiv	7.25	9.0	Africa
+SCCS16	SCCS69	3.0	Marital Residence	Settlement, Community	Tiv	7.25	9.0	Africa
+SCCS16	SCCS826	54.0	Average Female Contribution to Subsistence	Gender, Data Quality	Tiv	7.25	9.0	Africa
+SCCS160	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Haitians	18.83	-72.17	South America
+SCCS160	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Haitians	18.83	-72.17	South America
+SCCS160	SCCS64	6.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Haitians	18.83	-72.17	South America
+SCCS160	SCCS69	3.0	Marital Residence	Settlement, Community	Haitians	18.83	-72.17	South America
+SCCS160	SCCS826	14.0	Average Female Contribution to Subsistence	Gender, Data Quality	Haitians	18.83	-72.17	South America
+SCCS161	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Callinago	15.41	-61.27	South America
+SCCS161	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Callinago	15.41	-61.27	South America
+SCCS161	SCCS64	4.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Callinago	15.41	-61.27	South America
+SCCS161	SCCS69	1.0	Marital Residence	Settlement, Community	Callinago	15.41	-61.27	South America
+SCCS161	SCCS826	35.0	Average Female Contribution to Subsistence	Gender, Data Quality	Callinago	15.41	-61.27	South America
+SCCS162	SCCS3	3.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Warao	9.08	-62.0	South America
+SCCS162	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Warao	9.08	-62.0	South America
+SCCS162	SCCS64	2.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Warao	9.08	-62.0	South America
+SCCS162	SCCS69	1.0	Marital Residence	Settlement, Community	Warao	9.08	-62.0	South America
+SCCS162	SCCS826	16.0	Average Female Contribution to Subsistence	Gender, Data Quality	Warao	9.08	-62.0	South America
+SCCS163	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Yanomami	2.42	-65.0	South America
+SCCS163	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Yanomami	2.42	-65.0	South America
+SCCS163	SCCS64	2.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Yanomami	2.42	-65.0	South America
+SCCS163	SCCS69	3.0	Marital Residence	Settlement, Community	Yanomami	2.42	-65.0	South America
+SCCS163	SCCS826	20.0	Average Female Contribution to Subsistence	Gender, Data Quality	Yanomami	2.42	-65.0	South America
+SCCS164	SCCS3	4.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Barama River Carib	7.42	-60.17	South America
+SCCS164	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Barama River Carib	7.42	-60.17	South America
+SCCS164	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Barama River Carib	7.42	-60.17	South America
+SCCS164	SCCS69	5.0	Marital Residence	Settlement, Community	Barama River Carib	7.42	-60.17	South America
+SCCS164	SCCS826	16.0	Average Female Contribution to Subsistence	Gender, Data Quality	Barama River Carib	7.42	-60.17	South America
+SCCS165	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Saramaccan 	3.5	-55.75	South America
+SCCS165	SCCS588	2.0	Community-wide Exclusively Female Work Groups	Gender	Saramaccan 	3.5	-55.75	South America
+SCCS165	SCCS64	4.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Saramaccan 	3.5	-55.75	South America
+SCCS165	SCCS69	2.0	Marital Residence	Settlement, Community	Saramaccan 	3.5	-55.75	South America
+SCCS165	SCCS826	37.0	Average Female Contribution to Subsistence	Gender, Data Quality	Saramaccan 	3.5	-55.75	South America
+SCCS166	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Munduruku	-6.5	-56.5	South America
+SCCS166	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Munduruku	-6.5	-56.5	South America
+SCCS166	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Munduruku	-6.5	-56.5	South America
+SCCS166	SCCS69	1.0	Marital Residence	Settlement, Community	Munduruku	-6.5	-56.5	South America
+SCCS166	SCCS826	27.0	Average Female Contribution to Subsistence	Gender, Data Quality	Munduruku	-6.5	-56.5	South America
+SCCS167	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Cubeo	1.25	-70.5	South America
+SCCS167	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Cubeo	1.25	-70.5	South America
+SCCS167	SCCS64	2.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Cubeo	1.25	-70.5	South America
+SCCS167	SCCS69	3.0	Marital Residence	Settlement, Community	Cubeo	1.25	-70.5	South America
+SCCS167	SCCS826	34.0	Average Female Contribution to Subsistence	Gender, Data Quality	Cubeo	1.25	-70.5	South America
+SCCS168	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Chachi	1.0	-79.0	South America
+SCCS168	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Chachi	1.0	-79.0	South America
+SCCS168	SCCS64	3.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Chachi	1.0	-79.0	South America
+SCCS168	SCCS69	4.0	Marital Residence	Settlement, Community	Chachi	1.0	-79.0	South America
+SCCS168	SCCS826	31.0	Average Female Contribution to Subsistence	Gender, Data Quality	Chachi	1.0	-79.0	South America
+SCCS169	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Shuar	-3.0	-78.0	South America
+SCCS169	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Shuar	-3.0	-78.0	South America
+SCCS169	SCCS64	2.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Shuar	-3.0	-78.0	South America
+SCCS169	SCCS69	3.0	Marital Residence	Settlement, Community	Shuar	-3.0	-78.0	South America
+SCCS169	SCCS826	50.0	Average Female Contribution to Subsistence	Gender, Data Quality	Shuar	-3.0	-78.0	South America
+SCCS17	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Igbo	5.5	7.33	Africa
+SCCS17	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Igbo	5.5	7.33	Africa
+SCCS17	SCCS64	7.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Igbo	5.5	7.33	Africa
+SCCS17	SCCS69	3.0	Marital Residence	Settlement, Community	Igbo	5.5	7.33	Africa
+SCCS17	SCCS826	48.0	Average Female Contribution to Subsistence	Gender, Data Quality	Igbo	5.5	7.33	Africa
+SCCS170	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Amahuaca	-10.33	-72.25	South America
+SCCS170	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Amahuaca	-10.33	-72.25	South America
+SCCS170	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Amahuaca	-10.33	-72.25	South America
+SCCS170	SCCS69	3.0	Marital Residence	Settlement, Community	Amahuaca	-10.33	-72.25	South America
+SCCS170	SCCS826	32.0	Average Female Contribution to Subsistence	Gender, Data Quality	Amahuaca	-10.33	-72.25	South America
+SCCS171	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Inca	-13.5	-72.0	South America
+SCCS171	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Inca	-13.5	-72.0	South America
+SCCS171	SCCS64	4.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Inca	-13.5	-72.0	South America
+SCCS171	SCCS69	3.0	Marital Residence	Settlement, Community	Inca	-13.5	-72.0	South America
+SCCS171	SCCS826	36.0	Average Female Contribution to Subsistence	Gender, Data Quality	Inca	-13.5	-72.0	South America
+SCCS172	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Aymara	-16.0	-65.75	South America
+SCCS172	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Aymara	-16.0	-65.75	South America
+SCCS172	SCCS64	6.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Aymara	-16.0	-65.75	South America
+SCCS172	SCCS69	3.0	Marital Residence	Settlement, Community	Aymara	-16.0	-65.75	South America
+SCCS172	SCCS826	38.0	Average Female Contribution to Subsistence	Gender, Data Quality	Aymara	-16.0	-65.75	South America
+SCCS173	SCCS3	3.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Sirionó	-14.5	-63.5	South America
+SCCS173	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Sirionó	-14.5	-63.5	South America
+SCCS173	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Sirionó	-14.5	-63.5	South America
+SCCS173	SCCS69	1.0	Marital Residence	Settlement, Community	Sirionó	-14.5	-63.5	South America
+SCCS173	SCCS826	21.0	Average Female Contribution to Subsistence	Gender, Data Quality	Sirionó	-14.5	-63.5	South America
+SCCS174	SCCS3	4.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Nambikwara	-13.0	-58.75	South America
+SCCS174	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Nambikwara	-13.0	-58.75	South America
+SCCS174	SCCS64	2.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Nambikwara	-13.0	-58.75	South America
+SCCS174	SCCS69	3.0	Marital Residence	Settlement, Community	Nambikwara	-13.0	-58.75	South America
+SCCS174	SCCS826	25.0	Average Female Contribution to Subsistence	Gender, Data Quality	Nambikwara	-13.0	-58.75	South America
+SCCS175	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Trumai	-11.83	-53.67	South America
+SCCS175	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Trumai	-11.83	-53.67	South America
+SCCS175	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Trumai	-11.83	-53.67	South America
+SCCS175	SCCS69	3.0	Marital Residence	Settlement, Community	Trumai	-11.83	-53.67	South America
+SCCS175	SCCS826	33.0	Average Female Contribution to Subsistence	Gender, Data Quality	Trumai	-11.83	-53.67	South America
+SCCS176	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Canela	-6.5	-46.0	South America
+SCCS176	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Canela	-6.5	-46.0	South America
+SCCS176	SCCS64	3.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Canela	-6.5	-46.0	South America
+SCCS176	SCCS69	1.0	Marital Residence	Settlement, Community	Canela	-6.5	-46.0	South America
+SCCS176	SCCS826	34.0	Average Female Contribution to Subsistence	Gender, Data Quality	Canela	-6.5	-46.0	South America
+SCCS177	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Tupinambá	-22.79	-44.5	South America
+SCCS177	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Tupinambá	-22.79	-44.5	South America
+SCCS177	SCCS64	2.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Tupinambá	-22.79	-44.5	South America
+SCCS177	SCCS69	1.0	Marital Residence	Settlement, Community	Tupinambá	-22.79	-44.5	South America
+SCCS177	SCCS826	30.0	Average Female Contribution to Subsistence	Gender, Data Quality	Tupinambá	-22.79	-44.5	South America
+SCCS178	SCCS3	1.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Aimoré	-19.0	-42.5	South America
+SCCS178	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Aimoré	-19.0	-42.5	South America
+SCCS178	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Aimoré	-19.0	-42.5	South America
+SCCS178	SCCS69		Marital Residence	Settlement, Community	Aimoré	-19.0	-42.5	South America
+SCCS178	SCCS826	4.0	Average Female Contribution to Subsistence	Gender, Data Quality	Aimoré	-19.0	-42.5	South America
+SCCS179	SCCS3	3.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Shavante	-13.5	-51.5	South America
+SCCS179	SCCS588	2.0	Community-wide Exclusively Female Work Groups	Gender	Shavante	-13.5	-51.5	South America
+SCCS179	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Shavante	-13.5	-51.5	South America
+SCCS179	SCCS69	1.0	Marital Residence	Settlement, Community	Shavante	-13.5	-51.5	South America
+SCCS179	SCCS826	32.0	Average Female Contribution to Subsistence	Gender, Data Quality	Shavante	-13.5	-51.5	South America
+SCCS18	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Fon	7.2	1.91	Africa
+SCCS18	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Fon	7.2	1.91	Africa
+SCCS18	SCCS64	5.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Fon	7.2	1.91	Africa
+SCCS18	SCCS69	3.0	Marital Residence	Settlement, Community	Fon	7.2	1.91	Africa
+SCCS18	SCCS826	38.0	Average Female Contribution to Subsistence	Gender, Data Quality	Fon	7.2	1.91	Africa
+SCCS180	SCCS3	1.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Aweikoma	-28.0	-50.0	South America
+SCCS180	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Aweikoma	-28.0	-50.0	South America
+SCCS180	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Aweikoma	-28.0	-50.0	South America
+SCCS180	SCCS69	4.0	Marital Residence	Settlement, Community	Aweikoma	-28.0	-50.0	South America
+SCCS180	SCCS826	17.0	Average Female Contribution to Subsistence	Gender, Data Quality	Aweikoma	-28.0	-50.0	South America
+SCCS181	SCCS3	4.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Cayua	-23.5	-55.0	South America
+SCCS181	SCCS588	2.0	Community-wide Exclusively Female Work Groups	Gender	Cayua	-23.5	-55.0	South America
+SCCS181	SCCS64	2.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Cayua	-23.5	-55.0	South America
+SCCS181	SCCS69	3.0	Marital Residence	Settlement, Community	Cayua	-23.5	-55.0	South America
+SCCS181	SCCS826	29.0	Average Female Contribution to Subsistence	Gender, Data Quality	Cayua	-23.5	-55.0	South America
+SCCS182	SCCS3	4.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Lengua	-23.0	-58.5	South America
+SCCS182	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Lengua	-23.0	-58.5	South America
+SCCS182	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Lengua	-23.0	-58.5	South America
+SCCS182	SCCS69	1.0	Marital Residence	Settlement, Community	Lengua	-23.0	-58.5	South America
+SCCS182	SCCS826	9.0	Average Female Contribution to Subsistence	Gender, Data Quality	Lengua	-23.0	-58.5	South America
+SCCS183	SCCS3	1.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Abipón	-28.0	-59.5	South America
+SCCS183	SCCS588	2.0	Community-wide Exclusively Female Work Groups	Gender	Abipón	-28.0	-59.5	South America
+SCCS183	SCCS64	2.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Abipón	-28.0	-59.5	South America
+SCCS183	SCCS69	5.0	Marital Residence	Settlement, Community	Abipón	-28.0	-59.5	South America
+SCCS183	SCCS826	25.0	Average Female Contribution to Subsistence	Gender, Data Quality	Abipón	-28.0	-59.5	South America
+SCCS184	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Mapuche	-38.5	-72.58	South America
+SCCS184	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Mapuche	-38.5	-72.58	South America
+SCCS184	SCCS64	5.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Mapuche	-38.5	-72.58	South America
+SCCS184	SCCS69	3.0	Marital Residence	Settlement, Community	Mapuche	-38.5	-72.58	South America
+SCCS184	SCCS826	21.0	Average Female Contribution to Subsistence	Gender, Data Quality	Mapuche	-38.5	-72.58	South America
+SCCS185	SCCS3	1.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Tehuelche	-40.5	-68.0	South America
+SCCS185	SCCS588	2.0	Community-wide Exclusively Female Work Groups	Gender	Tehuelche	-40.5	-68.0	South America
+SCCS185	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Tehuelche	-40.5	-68.0	South America
+SCCS185	SCCS69	3.0	Marital Residence	Settlement, Community	Tehuelche	-40.5	-68.0	South America
+SCCS185	SCCS826	4.0	Average Female Contribution to Subsistence	Gender, Data Quality	Tehuelche	-40.5	-68.0	South America
+SCCS186	SCCS3	1.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Yahgan	-55.5	-69.5	South America
+SCCS186	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Yahgan	-55.5	-69.5	South America
+SCCS186	SCCS64	2.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Yahgan	-55.5	-69.5	South America
+SCCS186	SCCS69	3.0	Marital Residence	Settlement, Community	Yahgan	-55.5	-69.5	South America
+SCCS186	SCCS826	65.0	Average Female Contribution to Subsistence	Gender, Data Quality	Yahgan	-55.5	-69.5	South America
+SCCS19	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Ashanti	7.0	-1.5	Africa
+SCCS19	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Ashanti	7.0	-1.5	Africa
+SCCS19	SCCS64	5.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Ashanti	7.0	-1.5	Africa
+SCCS19	SCCS69	2.0	Marital Residence	Settlement, Community	Ashanti	7.0	-1.5	Africa
+SCCS19	SCCS826	59.0	Average Female Contribution to Subsistence	Gender, Data Quality	Ashanti	7.0	-1.5	Africa
+SCCS2	SCCS3	1.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	!Kung	-19.83	20.58	Africa
+SCCS2	SCCS588		Community-wide Exclusively Female Work Groups	Gender	!Kung	-19.83	20.58	Africa
+SCCS2	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	!Kung	-19.83	20.58	Africa
+SCCS2	SCCS69	4.0	Marital Residence	Settlement, Community	!Kung	-19.83	20.58	Africa
+SCCS2	SCCS826	19.0	Average Female Contribution to Subsistence	Gender, Data Quality	!Kung	-19.83	20.58	Africa
+SCCS20	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Mende	7.83	-12.0	Africa
+SCCS20	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Mende	7.83	-12.0	Africa
+SCCS20	SCCS64	5.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Mende	7.83	-12.0	Africa
+SCCS20	SCCS69	3.0	Marital Residence	Settlement, Community	Mende	7.83	-12.0	Africa
+SCCS20	SCCS826	39.0	Average Female Contribution to Subsistence	Gender, Data Quality	Mende	7.83	-12.0	Africa
+SCCS21	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Wolof	13.75	-15.33	Circum-Mediterranean
+SCCS21	SCCS588	2.0	Community-wide Exclusively Female Work Groups	Gender	Wolof	13.75	-15.33	Circum-Mediterranean
+SCCS21	SCCS64	6.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Wolof	13.75	-15.33	Circum-Mediterranean
+SCCS21	SCCS69	3.0	Marital Residence	Settlement, Community	Wolof	13.75	-15.33	Circum-Mediterranean
+SCCS21	SCCS826	23.0	Average Female Contribution to Subsistence	Gender, Data Quality	Wolof	13.75	-15.33	Circum-Mediterranean
+SCCS22	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Bambara	12.5	-7.0	Africa
+SCCS22	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Bambara	12.5	-7.0	Africa
+SCCS22	SCCS64	4.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Bambara	12.5	-7.0	Africa
+SCCS22	SCCS69	3.0	Marital Residence	Settlement, Community	Bambara	12.5	-7.0	Africa
+SCCS22	SCCS826	39.0	Average Female Contribution to Subsistence	Gender, Data Quality	Bambara	12.5	-7.0	Africa
+SCCS23	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Tallensi	10.66	-0.57	Africa
+SCCS23	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Tallensi	10.66	-0.57	Africa
+SCCS23	SCCS64	6.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Tallensi	10.66	-0.57	Africa
+SCCS23	SCCS69	3.0	Marital Residence	Settlement, Community	Tallensi	10.66	-0.57	Africa
+SCCS23	SCCS826	20.0	Average Female Contribution to Subsistence	Gender, Data Quality	Tallensi	10.66	-0.57	Africa
+SCCS24	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Songhai	16.58	-1.67	Circum-Mediterranean
+SCCS24	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Songhai	16.58	-1.67	Circum-Mediterranean
+SCCS24	SCCS64	4.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Songhai	16.58	-1.67	Circum-Mediterranean
+SCCS24	SCCS69	3.0	Marital Residence	Settlement, Community	Songhai	16.58	-1.67	Circum-Mediterranean
+SCCS24	SCCS826	19.0	Average Female Contribution to Subsistence	Gender, Data Quality	Songhai	16.58	-1.67	Circum-Mediterranean
+SCCS25	SCCS3	3.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Wodaabe Fulani	15.0	7.5	Circum-Mediterranean
+SCCS25	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Wodaabe Fulani	15.0	7.5	Circum-Mediterranean
+SCCS25	SCCS64	3.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Wodaabe Fulani	15.0	7.5	Circum-Mediterranean
+SCCS25	SCCS69	3.0	Marital Residence	Settlement, Community	Wodaabe Fulani	15.0	7.5	Circum-Mediterranean
+SCCS25	SCCS826	77.0	Average Female Contribution to Subsistence	Gender, Data Quality	Wodaabe Fulani	15.0	7.5	Circum-Mediterranean
+SCCS26	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Zazzagawa Hausa	10.5	7.5	Circum-Mediterranean
+SCCS26	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Zazzagawa Hausa	10.5	7.5	Circum-Mediterranean
+SCCS26	SCCS64	5.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Zazzagawa Hausa	10.5	7.5	Circum-Mediterranean
+SCCS26	SCCS69	3.0	Marital Residence	Settlement, Community	Zazzagawa Hausa	10.5	7.5	Circum-Mediterranean
+SCCS26	SCCS826	14.0	Average Female Contribution to Subsistence	Gender, Data Quality	Zazzagawa Hausa	10.5	7.5	Circum-Mediterranean
+SCCS27	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Masa	10.5	15.5	Africa
+SCCS27	SCCS588	2.0	Community-wide Exclusively Female Work Groups	Gender	Masa	10.5	15.5	Africa
+SCCS27	SCCS64	5.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Masa	10.5	15.5	Africa
+SCCS27	SCCS69	3.0	Marital Residence	Settlement, Community	Masa	10.5	15.5	Africa
+SCCS27	SCCS826	27.0	Average Female Contribution to Subsistence	Gender, Data Quality	Masa	10.5	15.5	Africa
+SCCS28	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Azande	5.08	28.25	Africa
+SCCS28	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Azande	5.08	28.25	Africa
+SCCS28	SCCS64	3.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Azande	5.08	28.25	Africa
+SCCS28	SCCS69	3.0	Marital Residence	Settlement, Community	Azande	5.08	28.25	Africa
+SCCS28	SCCS826	43.0	Average Female Contribution to Subsistence	Gender, Data Quality	Azande	5.08	28.25	Africa
+SCCS29	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Fur	13.5	25.5	Circum-Mediterranean
+SCCS29	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Fur	13.5	25.5	Circum-Mediterranean
+SCCS29	SCCS64	4.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Fur	13.5	25.5	Circum-Mediterranean
+SCCS29	SCCS69	1.0	Marital Residence	Settlement, Community	Fur	13.5	25.5	Circum-Mediterranean
+SCCS29	SCCS826	41.0	Average Female Contribution to Subsistence	Gender, Data Quality	Fur	13.5	25.5	Circum-Mediterranean
+SCCS3	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Tsonga	-25.83	32.33	Africa
+SCCS3	SCCS588	2.0	Community-wide Exclusively Female Work Groups	Gender	Tsonga	-25.83	32.33	Africa
+SCCS3	SCCS64	6.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Tsonga	-25.83	32.33	Africa
+SCCS3	SCCS69	3.0	Marital Residence	Settlement, Community	Tsonga	-25.83	32.33	Africa
+SCCS3	SCCS826	71.0	Average Female Contribution to Subsistence	Gender, Data Quality	Tsonga	-25.83	32.33	Africa
+SCCS30	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Otoro	11.33	30.67	Africa
+SCCS30	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Otoro	11.33	30.67	Africa
+SCCS30	SCCS64	4.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Otoro	11.33	30.67	Africa
+SCCS30	SCCS69	3.0	Marital Residence	Settlement, Community	Otoro	11.33	30.67	Africa
+SCCS30	SCCS826	35.0	Average Female Contribution to Subsistence	Gender, Data Quality	Otoro	11.33	30.67	Africa
+SCCS31	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Shilluk	9.75	31.5	Africa
+SCCS31	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Shilluk	9.75	31.5	Africa
+SCCS31	SCCS64	5.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Shilluk	9.75	31.5	Africa
+SCCS31	SCCS69	3.0	Marital Residence	Settlement, Community	Shilluk	9.75	31.5	Africa
+SCCS31	SCCS826	17.0	Average Female Contribution to Subsistence	Gender, Data Quality	Shilluk	9.75	31.5	Africa
+SCCS32	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Mao	9.27	34.67	Africa
+SCCS32	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Mao	9.27	34.67	Africa
+SCCS32	SCCS64	4.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Mao	9.27	34.67	Africa
+SCCS32	SCCS69	3.0	Marital Residence	Settlement, Community	Mao	9.27	34.67	Africa
+SCCS32	SCCS826	28.0	Average Female Contribution to Subsistence	Gender, Data Quality	Mao	9.27	34.67	Africa
+SCCS33	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Kafa	7.27	36.5	Circum-Mediterranean
+SCCS33	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Kafa	7.27	36.5	Circum-Mediterranean
+SCCS33	SCCS64	5.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Kafa	7.27	36.5	Circum-Mediterranean
+SCCS33	SCCS69	3.0	Marital Residence	Settlement, Community	Kafa	7.27	36.5	Circum-Mediterranean
+SCCS33	SCCS826	23.0	Average Female Contribution to Subsistence	Gender, Data Quality	Kafa	7.27	36.5	Circum-Mediterranean
+SCCS34	SCCS3	1.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Maasi	-3.5	36.75	Africa
+SCCS34	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Maasi	-3.5	36.75	Africa
+SCCS34	SCCS64	3.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Maasi	-3.5	36.75	Africa
+SCCS34	SCCS69	3.0	Marital Residence	Settlement, Community	Maasi	-3.5	36.75	Africa
+SCCS34	SCCS826	58.0	Average Female Contribution to Subsistence	Gender, Data Quality	Maasi	-3.5	36.75	Africa
+SCCS35	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Konso	5.25	37.5	Circum-Mediterranean
+SCCS35	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Konso	5.25	37.5	Circum-Mediterranean
+SCCS35	SCCS64	6.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Konso	5.25	37.5	Circum-Mediterranean
+SCCS35	SCCS69	3.0	Marital Residence	Settlement, Community	Konso	5.25	37.5	Circum-Mediterranean
+SCCS35	SCCS826	37.0	Average Female Contribution to Subsistence	Gender, Data Quality	Konso	5.25	37.5	Circum-Mediterranean
+SCCS36	SCCS3	3.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Somali (Dolbahanta)	9.0	47.25	Circum-Mediterranean
+SCCS36	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Somali (Dolbahanta)	9.0	47.25	Circum-Mediterranean
+SCCS36	SCCS64	4.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Somali (Dolbahanta)	9.0	47.25	Circum-Mediterranean
+SCCS36	SCCS69	3.0	Marital Residence	Settlement, Community	Somali (Dolbahanta)	9.0	47.25	Circum-Mediterranean
+SCCS36	SCCS826	50.0	Average Female Contribution to Subsistence	Gender, Data Quality	Somali (Dolbahanta)	9.0	47.25	Circum-Mediterranean
+SCCS37	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Amhara	12.5	37.75	Circum-Mediterranean
+SCCS37	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Amhara	12.5	37.75	Circum-Mediterranean
+SCCS37	SCCS64	5.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Amhara	12.5	37.75	Circum-Mediterranean
+SCCS37	SCCS69	3.0	Marital Residence	Settlement, Community	Amhara	12.5	37.75	Circum-Mediterranean
+SCCS37	SCCS826	13.0	Average Female Contribution to Subsistence	Gender, Data Quality	Amhara	12.5	37.75	Circum-Mediterranean
+SCCS38	SCCS3	4.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Blin	15.75	38.75	Circum-Mediterranean
+SCCS38	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Blin	15.75	38.75	Circum-Mediterranean
+SCCS38	SCCS64	3.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Blin	15.75	38.75	Circum-Mediterranean
+SCCS38	SCCS69	3.0	Marital Residence	Settlement, Community	Blin	15.75	38.75	Circum-Mediterranean
+SCCS38	SCCS826	0.0	Average Female Contribution to Subsistence	Gender, Data Quality	Blin	15.75	38.75	Circum-Mediterranean
+SCCS39	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Barabra	23.0	39.11	Circum-Mediterranean
+SCCS39	SCCS588	2.0	Community-wide Exclusively Female Work Groups	Gender	Barabra	23.0	39.11	Circum-Mediterranean
+SCCS39	SCCS64		Population Density (from Murdock and Wilson Data)	Settlement, Community	Barabra	23.0	39.11	Circum-Mediterranean
+SCCS39	SCCS69	3.0	Marital Residence	Settlement, Community	Barabra	23.0	39.11	Circum-Mediterranean
+SCCS39	SCCS826	43.0	Average Female Contribution to Subsistence	Gender, Data Quality	Barabra	23.0	39.11	Circum-Mediterranean
+SCCS4	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Lozi	-16.0	23.5	Africa
+SCCS4	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Lozi	-16.0	23.5	Africa
+SCCS4	SCCS64	4.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Lozi	-16.0	23.5	Africa
+SCCS4	SCCS69	3.0	Marital Residence	Settlement, Community	Lozi	-16.0	23.5	Africa
+SCCS4	SCCS826	30.0	Average Female Contribution to Subsistence	Gender, Data Quality	Lozi	-16.0	23.5	Africa
+SCCS40	SCCS3	3.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Teda	20.5	17.5	Circum-Mediterranean
+SCCS40	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Teda	20.5	17.5	Circum-Mediterranean
+SCCS40	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Teda	20.5	17.5	Circum-Mediterranean
+SCCS40	SCCS69	3.0	Marital Residence	Settlement, Community	Teda	20.5	17.5	Circum-Mediterranean
+SCCS40	SCCS826	34.0	Average Female Contribution to Subsistence	Gender, Data Quality	Teda	20.5	17.5	Circum-Mediterranean
+SCCS41	SCCS3	4.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Tuareg Ahaggar	23.0	6.5	Circum-Mediterranean
+SCCS41	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Tuareg Ahaggar	23.0	6.5	Circum-Mediterranean
+SCCS41	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Tuareg Ahaggar	23.0	6.5	Circum-Mediterranean
+SCCS41	SCCS69	2.0	Marital Residence	Settlement, Community	Tuareg Ahaggar	23.0	6.5	Circum-Mediterranean
+SCCS41	SCCS826	46.0	Average Female Contribution to Subsistence	Gender, Data Quality	Tuareg Ahaggar	23.0	6.5	Circum-Mediterranean
+SCCS42	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Riffians	34.92	-3.25	Circum-Mediterranean
+SCCS42	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Riffians	34.92	-3.25	Circum-Mediterranean
+SCCS42	SCCS64	6.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Riffians	34.92	-3.25	Circum-Mediterranean
+SCCS42	SCCS69	3.0	Marital Residence	Settlement, Community	Riffians	34.92	-3.25	Circum-Mediterranean
+SCCS42	SCCS826	27.0	Average Female Contribution to Subsistence	Gender, Data Quality	Riffians	34.92	-3.25	Circum-Mediterranean
+SCCS43	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Egyptians	24.75	33.0	Circum-Mediterranean
+SCCS43	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Egyptians	24.75	33.0	Circum-Mediterranean
+SCCS43	SCCS64	7.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Egyptians	24.75	33.0	Circum-Mediterranean
+SCCS43	SCCS69	3.0	Marital Residence	Settlement, Community	Egyptians	24.75	33.0	Circum-Mediterranean
+SCCS43	SCCS826	10.0	Average Female Contribution to Subsistence	Gender, Data Quality	Egyptians	24.75	33.0	Circum-Mediterranean
+SCCS44	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Hebrews	31.18	34.92	Circum-Mediterranean
+SCCS44	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Hebrews	31.18	34.92	Circum-Mediterranean
+SCCS44	SCCS64	7.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Hebrews	31.18	34.92	Circum-Mediterranean
+SCCS44	SCCS69	3.0	Marital Residence	Settlement, Community	Hebrews	31.18	34.92	Circum-Mediterranean
+SCCS44	SCCS826	2.0	Average Female Contribution to Subsistence	Gender, Data Quality	Hebrews	31.18	34.92	Circum-Mediterranean
+SCCS45	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Babylonians	32.58	44.75	Circum-Mediterranean
+SCCS45	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Babylonians	32.58	44.75	Circum-Mediterranean
+SCCS45	SCCS64	7.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Babylonians	32.58	44.75	Circum-Mediterranean
+SCCS45	SCCS69	3.0	Marital Residence	Settlement, Community	Babylonians	32.58	44.75	Circum-Mediterranean
+SCCS45	SCCS826	0.0	Average Female Contribution to Subsistence	Gender, Data Quality	Babylonians	32.58	44.75	Circum-Mediterranean
+SCCS46	SCCS3	1.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Rwala	33.25	38.5	Circum-Mediterranean
+SCCS46	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Rwala	33.25	38.5	Circum-Mediterranean
+SCCS46	SCCS64	2.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Rwala	33.25	38.5	Circum-Mediterranean
+SCCS46	SCCS69	3.0	Marital Residence	Settlement, Community	Rwala	33.25	38.5	Circum-Mediterranean
+SCCS46	SCCS826	13.0	Average Female Contribution to Subsistence	Gender, Data Quality	Rwala	33.25	38.5	Circum-Mediterranean
+SCCS47	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Turks	39.33	34.25	Circum-Mediterranean
+SCCS47	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Turks	39.33	34.25	Circum-Mediterranean
+SCCS47	SCCS64	5.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Turks	39.33	34.25	Circum-Mediterranean
+SCCS47	SCCS69	3.0	Marital Residence	Settlement, Community	Turks	39.33	34.25	Circum-Mediterranean
+SCCS47	SCCS826	49.0	Average Female Contribution to Subsistence	Gender, Data Quality	Turks	39.33	34.25	Circum-Mediterranean
+SCCS48	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Gheg	42.0	20.17	Circum-Mediterranean
+SCCS48	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Gheg	42.0	20.17	Circum-Mediterranean
+SCCS48	SCCS64	5.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Gheg	42.0	20.17	Circum-Mediterranean
+SCCS48	SCCS69	3.0	Marital Residence	Settlement, Community	Gheg	42.0	20.17	Circum-Mediterranean
+SCCS48	SCCS826	52.0	Average Female Contribution to Subsistence	Gender, Data Quality	Gheg	42.0	20.17	Circum-Mediterranean
+SCCS49	SCCS3	4.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Ancient Romans	41.67	13.5	Circum-Mediterranean
+SCCS49	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Ancient Romans	41.67	13.5	Circum-Mediterranean
+SCCS49	SCCS64	7.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Ancient Romans	41.67	13.5	Circum-Mediterranean
+SCCS49	SCCS69	3.0	Marital Residence	Settlement, Community	Ancient Romans	41.67	13.5	Circum-Mediterranean
+SCCS49	SCCS826		Average Female Contribution to Subsistence	Gender, Data Quality	Ancient Romans	41.67	13.5	Circum-Mediterranean
+SCCS5	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Mbundu	-12.25	16.5	Africa
+SCCS5	SCCS588	2.0	Community-wide Exclusively Female Work Groups	Gender	Mbundu	-12.25	16.5	Africa
+SCCS5	SCCS64	4.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Mbundu	-12.25	16.5	Africa
+SCCS5	SCCS69	3.0	Marital Residence	Settlement, Community	Mbundu	-12.25	16.5	Africa
+SCCS5	SCCS826	43.0	Average Female Contribution to Subsistence	Gender, Data Quality	Mbundu	-12.25	16.5	Africa
+SCCS50	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Spanish Basques	43.25	-1.67	Circum-Mediterranean
+SCCS50	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Spanish Basques	43.25	-1.67	Circum-Mediterranean
+SCCS50	SCCS64	4.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Spanish Basques	43.25	-1.67	Circum-Mediterranean
+SCCS50	SCCS69	3.0	Marital Residence	Settlement, Community	Spanish Basques	43.25	-1.67	Circum-Mediterranean
+SCCS50	SCCS826	32.0	Average Female Contribution to Subsistence	Gender, Data Quality	Spanish Basques	43.25	-1.67	Circum-Mediterranean
+SCCS51	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Irish	53.5	-10.0	Circum-Mediterranean
+SCCS51	SCCS588	2.0	Community-wide Exclusively Female Work Groups	Gender	Irish	53.5	-10.0	Circum-Mediterranean
+SCCS51	SCCS64	5.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Irish	53.5	-10.0	Circum-Mediterranean
+SCCS51	SCCS69	3.0	Marital Residence	Settlement, Community	Irish	53.5	-10.0	Circum-Mediterranean
+SCCS51	SCCS826	18.0	Average Female Contribution to Subsistence	Gender, Data Quality	Irish	53.5	-10.0	Circum-Mediterranean
+SCCS52	SCCS3	3.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Sami	68.7	21.5	Circum-Mediterranean
+SCCS52	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Sami	68.7	21.5	Circum-Mediterranean
+SCCS52	SCCS64	3.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Sami	68.7	21.5	Circum-Mediterranean
+SCCS52	SCCS69	3.0	Marital Residence	Settlement, Community	Sami	68.7	21.5	Circum-Mediterranean
+SCCS52	SCCS826	49.0	Average Female Contribution to Subsistence	Gender, Data Quality	Sami	68.7	21.5	Circum-Mediterranean
+SCCS53	SCCS3	3.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Yurak-Samoyeds	68.0	51.5	East Eurasia
+SCCS53	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Yurak-Samoyeds	68.0	51.5	East Eurasia
+SCCS53	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Yurak-Samoyeds	68.0	51.5	East Eurasia
+SCCS53	SCCS69	3.0	Marital Residence	Settlement, Community	Yurak-Samoyeds	68.0	51.5	East Eurasia
+SCCS53	SCCS826	11.0	Average Female Contribution to Subsistence	Gender, Data Quality	Yurak-Samoyeds	68.0	51.5	East Eurasia
+SCCS54	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Russians	52.67	41.33	Circum-Mediterranean
+SCCS54	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Russians	52.67	41.33	Circum-Mediterranean
+SCCS54	SCCS64	4.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Russians	52.67	41.33	Circum-Mediterranean
+SCCS54	SCCS69	5.0	Marital Residence	Settlement, Community	Russians	52.67	41.33	Circum-Mediterranean
+SCCS54	SCCS826	58.0	Average Female Contribution to Subsistence	Gender, Data Quality	Russians	52.67	41.33	Circum-Mediterranean
+SCCS55	SCCS3	4.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Abkhaz	43.13	40.77	Circum-Mediterranean
+SCCS55	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Abkhaz	43.13	40.77	Circum-Mediterranean
+SCCS55	SCCS64	5.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Abkhaz	43.13	40.77	Circum-Mediterranean
+SCCS55	SCCS69	3.0	Marital Residence	Settlement, Community	Abkhaz	43.13	40.77	Circum-Mediterranean
+SCCS55	SCCS826	8.0	Average Female Contribution to Subsistence	Gender, Data Quality	Abkhaz	43.13	40.77	Circum-Mediterranean
+SCCS56	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Armenians	40.0	44.5	Circum-Mediterranean
+SCCS56	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Armenians	40.0	44.5	Circum-Mediterranean
+SCCS56	SCCS64	5.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Armenians	40.0	44.5	Circum-Mediterranean
+SCCS56	SCCS69	3.0	Marital Residence	Settlement, Community	Armenians	40.0	44.5	Circum-Mediterranean
+SCCS56	SCCS826	37.0	Average Female Contribution to Subsistence	Gender, Data Quality	Armenians	40.0	44.5	Circum-Mediterranean
+SCCS57	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Kurd	36.5	44.5	Circum-Mediterranean
+SCCS57	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Kurd	36.5	44.5	Circum-Mediterranean
+SCCS57	SCCS64	6.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Kurd	36.5	44.5	Circum-Mediterranean
+SCCS57	SCCS69	3.0	Marital Residence	Settlement, Community	Kurd	36.5	44.5	Circum-Mediterranean
+SCCS57	SCCS826	25.0	Average Female Contribution to Subsistence	Gender, Data Quality	Kurd	36.5	44.5	Circum-Mediterranean
+SCCS58	SCCS3	4.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Basseri	29.0	53.0	East Eurasia
+SCCS58	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Basseri	29.0	53.0	East Eurasia
+SCCS58	SCCS64	3.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Basseri	29.0	53.0	East Eurasia
+SCCS58	SCCS69	3.0	Marital Residence	Settlement, Community	Basseri	29.0	53.0	East Eurasia
+SCCS58	SCCS826	32.0	Average Female Contribution to Subsistence	Gender, Data Quality	Basseri	29.0	53.0	East Eurasia
+SCCS59	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Punjabi	32.5	74.0	East Eurasia
+SCCS59	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Punjabi	32.5	74.0	East Eurasia
+SCCS59	SCCS64	6.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Punjabi	32.5	74.0	East Eurasia
+SCCS59	SCCS69	3.0	Marital Residence	Settlement, Community	Punjabi	32.5	74.0	East Eurasia
+SCCS59	SCCS826	10.0	Average Female Contribution to Subsistence	Gender, Data Quality	Punjabi	32.5	74.0	East Eurasia
+SCCS6	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Suku	-6.0	18.0	Africa
+SCCS6	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Suku	-6.0	18.0	Africa
+SCCS6	SCCS64	4.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Suku	-6.0	18.0	Africa
+SCCS6	SCCS69	3.0	Marital Residence	Settlement, Community	Suku	-6.0	18.0	Africa
+SCCS6	SCCS826	70.0	Average Female Contribution to Subsistence	Gender, Data Quality	Suku	-6.0	18.0	Africa
+SCCS60	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Madia	19.63	80.92	East Eurasia
+SCCS60	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Madia	19.63	80.92	East Eurasia
+SCCS60	SCCS64	4.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Madia	19.63	80.92	East Eurasia
+SCCS60	SCCS69	3.0	Marital Residence	Settlement, Community	Madia	19.63	80.92	East Eurasia
+SCCS60	SCCS826	18.0	Average Female Contribution to Subsistence	Gender, Data Quality	Madia	19.63	80.92	East Eurasia
+SCCS61	SCCS3	1.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Toda	11.5	76.5	East Eurasia
+SCCS61	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Toda	11.5	76.5	East Eurasia
+SCCS61	SCCS64	5.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Toda	11.5	76.5	East Eurasia
+SCCS61	SCCS69	3.0	Marital Residence	Settlement, Community	Toda	11.5	76.5	East Eurasia
+SCCS61	SCCS826	13.0	Average Female Contribution to Subsistence	Gender, Data Quality	Toda	11.5	76.5	East Eurasia
+SCCS62	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Santal	23.5	87.17	East Eurasia
+SCCS62	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Santal	23.5	87.17	East Eurasia
+SCCS62	SCCS64	6.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Santal	23.5	87.17	East Eurasia
+SCCS62	SCCS69	3.0	Marital Residence	Settlement, Community	Santal	23.5	87.17	East Eurasia
+SCCS62	SCCS826	22.0	Average Female Contribution to Subsistence	Gender, Data Quality	Santal	23.5	87.17	East Eurasia
+SCCS63	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Uttar Pradesh	25.92	83.0	East Eurasia
+SCCS63	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Uttar Pradesh	25.92	83.0	East Eurasia
+SCCS63	SCCS64	7.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Uttar Pradesh	25.92	83.0	East Eurasia
+SCCS63	SCCS69	3.0	Marital Residence	Settlement, Community	Uttar Pradesh	25.92	83.0	East Eurasia
+SCCS63	SCCS826	25.0	Average Female Contribution to Subsistence	Gender, Data Quality	Uttar Pradesh	25.92	83.0	East Eurasia
+SCCS64	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Burusho	36.43	74.58	East Eurasia
+SCCS64	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Burusho	36.43	74.58	East Eurasia
+SCCS64	SCCS64	3.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Burusho	36.43	74.58	East Eurasia
+SCCS64	SCCS69	3.0	Marital Residence	Settlement, Community	Burusho	36.43	74.58	East Eurasia
+SCCS64	SCCS826	18.0	Average Female Contribution to Subsistence	Gender, Data Quality	Burusho	36.43	74.58	East Eurasia
+SCCS65	SCCS3	2.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Kazakh	42.5	75.5	East Eurasia
+SCCS65	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Kazakh	42.5	75.5	East Eurasia
+SCCS65	SCCS64	3.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Kazakh	42.5	75.5	East Eurasia
+SCCS65	SCCS69	3.0	Marital Residence	Settlement, Community	Kazakh	42.5	75.5	East Eurasia
+SCCS65	SCCS826	21.0	Average Female Contribution to Subsistence	Gender, Data Quality	Kazakh	42.5	75.5	East Eurasia
+SCCS66	SCCS3	3.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Khalka	47.17	96.08	East Eurasia
+SCCS66	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Khalka	47.17	96.08	East Eurasia
+SCCS66	SCCS64	3.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Khalka	47.17	96.08	East Eurasia
+SCCS66	SCCS69	3.0	Marital Residence	Settlement, Community	Khalka	47.17	96.08	East Eurasia
+SCCS66	SCCS826	53.0	Average Female Contribution to Subsistence	Gender, Data Quality	Khalka	47.17	96.08	East Eurasia
+SCCS67	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Lolo	27.5	103.5	East Eurasia
+SCCS67	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Lolo	27.5	103.5	East Eurasia
+SCCS67	SCCS64	3.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Lolo	27.5	103.5	East Eurasia
+SCCS67	SCCS69	3.0	Marital Residence	Settlement, Community	Lolo	27.5	103.5	East Eurasia
+SCCS67	SCCS826	41.0	Average Female Contribution to Subsistence	Gender, Data Quality	Lolo	27.5	103.5	East Eurasia
+SCCS68	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Lepcha	27.5	89.0	East Eurasia
+SCCS68	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Lepcha	27.5	89.0	East Eurasia
+SCCS68	SCCS64	5.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Lepcha	27.5	89.0	East Eurasia
+SCCS68	SCCS69	3.0	Marital Residence	Settlement, Community	Lepcha	27.5	89.0	East Eurasia
+SCCS68	SCCS826	53.0	Average Female Contribution to Subsistence	Gender, Data Quality	Lepcha	27.5	89.0	East Eurasia
+SCCS69	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Garo	26.0	91.0	East Eurasia
+SCCS69	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Garo	26.0	91.0	East Eurasia
+SCCS69	SCCS64	5.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Garo	26.0	91.0	East Eurasia
+SCCS69	SCCS69	1.0	Marital Residence	Settlement, Community	Garo	26.0	91.0	East Eurasia
+SCCS69	SCCS826	35.0	Average Female Contribution to Subsistence	Gender, Data Quality	Garo	26.0	91.0	East Eurasia
+SCCS7	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Bemba	-10.5	30.5	Africa
+SCCS7	SCCS588	2.0	Community-wide Exclusively Female Work Groups	Gender	Bemba	-10.5	30.5	Africa
+SCCS7	SCCS64	3.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Bemba	-10.5	30.5	Africa
+SCCS7	SCCS69	1.0	Marital Residence	Settlement, Community	Bemba	-10.5	30.5	Africa
+SCCS7	SCCS826	41.0	Average Female Contribution to Subsistence	Gender, Data Quality	Bemba	-10.5	30.5	Africa
+SCCS70	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Maras	22.33	93.0	East Eurasia
+SCCS70	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Maras	22.33	93.0	East Eurasia
+SCCS70	SCCS64	4.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Maras	22.33	93.0	East Eurasia
+SCCS70	SCCS69	3.0	Marital Residence	Settlement, Community	Maras	22.33	93.0	East Eurasia
+SCCS70	SCCS826	49.0	Average Female Contribution to Subsistence	Gender, Data Quality	Maras	22.33	93.0	East Eurasia
+SCCS71	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Burmese	22.0	95.67	East Eurasia
+SCCS71	SCCS588	2.0	Community-wide Exclusively Female Work Groups	Gender	Burmese	22.0	95.67	East Eurasia
+SCCS71	SCCS64	6.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Burmese	22.0	95.67	East Eurasia
+SCCS71	SCCS69	1.0	Marital Residence	Settlement, Community	Burmese	22.0	95.67	East Eurasia
+SCCS71	SCCS826	18.0	Average Female Contribution to Subsistence	Gender, Data Quality	Burmese	22.0	95.67	East Eurasia
+SCCS72	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Lamet	20.0	100.67	East Eurasia
+SCCS72	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Lamet	20.0	100.67	East Eurasia
+SCCS72	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Lamet	20.0	100.67	East Eurasia
+SCCS72	SCCS69	3.0	Marital Residence	Settlement, Community	Lamet	20.0	100.67	East Eurasia
+SCCS72	SCCS826	28.0	Average Female Contribution to Subsistence	Gender, Data Quality	Lamet	20.0	100.67	East Eurasia
+SCCS73	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Annamese	20.5	106.25	East Eurasia
+SCCS73	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Annamese	20.5	106.25	East Eurasia
+SCCS73	SCCS64	7.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Annamese	20.5	106.25	East Eurasia
+SCCS73	SCCS69	3.0	Marital Residence	Settlement, Community	Annamese	20.5	106.25	East Eurasia
+SCCS73	SCCS826	16.0	Average Female Contribution to Subsistence	Gender, Data Quality	Annamese	20.5	106.25	East Eurasia
+SCCS74	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Rade	13.0	108.0	East Eurasia
+SCCS74	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Rade	13.0	108.0	East Eurasia
+SCCS74	SCCS64	7.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Rade	13.0	108.0	East Eurasia
+SCCS74	SCCS69	1.0	Marital Residence	Settlement, Community	Rade	13.0	108.0	East Eurasia
+SCCS74	SCCS826	37.0	Average Female Contribution to Subsistence	Gender, Data Quality	Rade	13.0	108.0	East Eurasia
+SCCS75	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Ancient Khmer	13.0	103.83	East Eurasia
+SCCS75	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Ancient Khmer	13.0	103.83	East Eurasia
+SCCS75	SCCS64	5.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Ancient Khmer	13.0	103.83	East Eurasia
+SCCS75	SCCS69	5.0	Marital Residence	Settlement, Community	Ancient Khmer	13.0	103.83	East Eurasia
+SCCS75	SCCS826	29.0	Average Female Contribution to Subsistence	Gender, Data Quality	Ancient Khmer	13.0	103.83	East Eurasia
+SCCS76	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Thai	14.0	100.85	East Eurasia
+SCCS76	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Thai	14.0	100.85	East Eurasia
+SCCS76	SCCS64	6.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Thai	14.0	100.85	East Eurasia
+SCCS76	SCCS69	1.0	Marital Residence	Settlement, Community	Thai	14.0	100.85	East Eurasia
+SCCS76	SCCS826	34.0	Average Female Contribution to Subsistence	Gender, Data Quality	Thai	14.0	100.85	East Eurasia
+SCCS77	SCCS3	3.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Semang	5.0	101.25	East Eurasia
+SCCS77	SCCS588	2.0	Community-wide Exclusively Female Work Groups	Gender	Semang	5.0	101.25	East Eurasia
+SCCS77	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Semang	5.0	101.25	East Eurasia
+SCCS77	SCCS69	3.0	Marital Residence	Settlement, Community	Semang	5.0	101.25	East Eurasia
+SCCS77	SCCS826	29.0	Average Female Contribution to Subsistence	Gender, Data Quality	Semang	5.0	101.25	East Eurasia
+SCCS78	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Nicobarese	7.0	93.75	East Eurasia
+SCCS78	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Nicobarese	7.0	93.75	East Eurasia
+SCCS78	SCCS64	5.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Nicobarese	7.0	93.75	East Eurasia
+SCCS78	SCCS69	1.0	Marital Residence	Settlement, Community	Nicobarese	7.0	93.75	East Eurasia
+SCCS78	SCCS826	38.0	Average Female Contribution to Subsistence	Gender, Data Quality	Nicobarese	7.0	93.75	East Eurasia
+SCCS79	SCCS3	1.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Andamanese	12.0	93.0	East Eurasia
+SCCS79	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Andamanese	12.0	93.0	East Eurasia
+SCCS79	SCCS64	3.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Andamanese	12.0	93.0	East Eurasia
+SCCS79	SCCS69	4.0	Marital Residence	Settlement, Community	Andamanese	12.0	93.0	East Eurasia
+SCCS79	SCCS826	32.0	Average Female Contribution to Subsistence	Gender, Data Quality	Andamanese	12.0	93.0	East Eurasia
+SCCS8	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Nyakyusa	-9.5	34.0	Africa
+SCCS8	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Nyakyusa	-9.5	34.0	Africa
+SCCS8	SCCS64	5.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Nyakyusa	-9.5	34.0	Africa
+SCCS8	SCCS69	5.0	Marital Residence	Settlement, Community	Nyakyusa	-9.5	34.0	Africa
+SCCS8	SCCS826	41.0	Average Female Contribution to Subsistence	Gender, Data Quality	Nyakyusa	-9.5	34.0	Africa
+SCCS80	SCCS3	3.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Vedda	7.75	81.25	East Eurasia
+SCCS80	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Vedda	7.75	81.25	East Eurasia
+SCCS80	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Vedda	7.75	81.25	East Eurasia
+SCCS80	SCCS69	1.0	Marital Residence	Settlement, Community	Vedda	7.75	81.25	East Eurasia
+SCCS80	SCCS826	7.0	Average Female Contribution to Subsistence	Gender, Data Quality	Vedda	7.75	81.25	East Eurasia
+SCCS81	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Tanala	-22.0	48.0	East Eurasia
+SCCS81	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Tanala	-22.0	48.0	East Eurasia
+SCCS81	SCCS64	3.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Tanala	-22.0	48.0	East Eurasia
+SCCS81	SCCS69	3.0	Marital Residence	Settlement, Community	Tanala	-22.0	48.0	East Eurasia
+SCCS81	SCCS826	37.0	Average Female Contribution to Subsistence	Gender, Data Quality	Tanala	-22.0	48.0	East Eurasia
+SCCS82	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Negri Sembilan	2.58	102.25	East Eurasia
+SCCS82	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Negri Sembilan	2.58	102.25	East Eurasia
+SCCS82	SCCS64	7.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Negri Sembilan	2.58	102.25	East Eurasia
+SCCS82	SCCS69	1.0	Marital Residence	Settlement, Community	Negri Sembilan	2.58	102.25	East Eurasia
+SCCS82	SCCS826	52.0	Average Female Contribution to Subsistence	Gender, Data Quality	Negri Sembilan	2.58	102.25	East Eurasia
+SCCS83	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Javanese	-7.7	112.22	Insular Pacific
+SCCS83	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Javanese	-7.7	112.22	Insular Pacific
+SCCS83	SCCS64	7.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Javanese	-7.7	112.22	Insular Pacific
+SCCS83	SCCS69	1.0	Marital Residence	Settlement, Community	Javanese	-7.7	112.22	Insular Pacific
+SCCS83	SCCS826	34.0	Average Female Contribution to Subsistence	Gender, Data Quality	Javanese	-7.7	112.22	Insular Pacific
+SCCS84	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Balinese	-8.5	115.33	Insular Pacific
+SCCS84	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Balinese	-8.5	115.33	Insular Pacific
+SCCS84	SCCS64	7.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Balinese	-8.5	115.33	Insular Pacific
+SCCS84	SCCS69	3.0	Marital Residence	Settlement, Community	Balinese	-8.5	115.33	Insular Pacific
+SCCS84	SCCS826	7.0	Average Female Contribution to Subsistence	Gender, Data Quality	Balinese	-8.5	115.33	Insular Pacific
+SCCS85	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Iban	2.0	113.0	Insular Pacific
+SCCS85	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Iban	2.0	113.0	Insular Pacific
+SCCS85	SCCS64	4.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Iban	2.0	113.0	Insular Pacific
+SCCS85	SCCS69	4.0	Marital Residence	Settlement, Community	Iban	2.0	113.0	Insular Pacific
+SCCS85	SCCS826	44.0	Average Female Contribution to Subsistence	Gender, Data Quality	Iban	2.0	113.0	Insular Pacific
+SCCS86	SCCS3	3.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Badjau Tawi-Tawi	5.0	120.0	Insular Pacific
+SCCS86	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Badjau Tawi-Tawi	5.0	120.0	Insular Pacific
+SCCS86	SCCS64	1.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Badjau Tawi-Tawi	5.0	120.0	Insular Pacific
+SCCS86	SCCS69	4.0	Marital Residence	Settlement, Community	Badjau Tawi-Tawi	5.0	120.0	Insular Pacific
+SCCS86	SCCS826	44.0	Average Female Contribution to Subsistence	Gender, Data Quality	Badjau Tawi-Tawi	5.0	120.0	Insular Pacific
+SCCS87	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Toradja	-2.0	121.0	Insular Pacific
+SCCS87	SCCS588	2.0	Community-wide Exclusively Female Work Groups	Gender	Toradja	-2.0	121.0	Insular Pacific
+SCCS87	SCCS64	4.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Toradja	-2.0	121.0	Insular Pacific
+SCCS87	SCCS69	1.0	Marital Residence	Settlement, Community	Toradja	-2.0	121.0	Insular Pacific
+SCCS87	SCCS826	45.0	Average Female Contribution to Subsistence	Gender, Data Quality	Toradja	-2.0	121.0	Insular Pacific
+SCCS88	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Tobelorese	2.0	127.94	Insular Pacific
+SCCS88	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Tobelorese	2.0	127.94	Insular Pacific
+SCCS88	SCCS64	4.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Tobelorese	2.0	127.94	Insular Pacific
+SCCS88	SCCS69	1.0	Marital Residence	Settlement, Community	Tobelorese	2.0	127.94	Insular Pacific
+SCCS88	SCCS826	45.0	Average Female Contribution to Subsistence	Gender, Data Quality	Tobelorese	2.0	127.94	Insular Pacific
+SCCS89	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Alorese	-8.33	124.67	Insular Pacific
+SCCS89	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Alorese	-8.33	124.67	Insular Pacific
+SCCS89	SCCS64	7.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Alorese	-8.33	124.67	Insular Pacific
+SCCS89	SCCS69	3.0	Marital Residence	Settlement, Community	Alorese	-8.33	124.67	Insular Pacific
+SCCS89	SCCS826	63.0	Average Female Contribution to Subsistence	Gender, Data Quality	Alorese	-8.33	124.67	Insular Pacific
+SCCS9	SCCS3	1.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Hadza	-3.75	35.18	Africa
+SCCS9	SCCS588	2.0	Community-wide Exclusively Female Work Groups	Gender	Hadza	-3.75	35.18	Africa
+SCCS9	SCCS64	2.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Hadza	-3.75	35.18	Africa
+SCCS9	SCCS69	1.0	Marital Residence	Settlement, Community	Hadza	-3.75	35.18	Africa
+SCCS9	SCCS826	50.0	Average Female Contribution to Subsistence	Gender, Data Quality	Hadza	-3.75	35.18	Africa
+SCCS90	SCCS3	1.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Tiwi	-11.38	131.0	Insular Pacific
+SCCS90	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Tiwi	-11.38	131.0	Insular Pacific
+SCCS90	SCCS64	2.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Tiwi	-11.38	131.0	Insular Pacific
+SCCS90	SCCS69	3.0	Marital Residence	Settlement, Community	Tiwi	-11.38	131.0	Insular Pacific
+SCCS90	SCCS826	46.0	Average Female Contribution to Subsistence	Gender, Data Quality	Tiwi	-11.38	131.0	Insular Pacific
+SCCS91	SCCS3	1.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Northern Aranda	-24.25	133.5	Insular Pacific
+SCCS91	SCCS588	1.0	Community-wide Exclusively Female Work Groups	Gender	Northern Aranda	-24.25	133.5	Insular Pacific
+SCCS91	SCCS64	2.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Northern Aranda	-24.25	133.5	Insular Pacific
+SCCS91	SCCS69	3.0	Marital Residence	Settlement, Community	Northern Aranda	-24.25	133.5	Insular Pacific
+SCCS91	SCCS826	26.0	Average Female Contribution to Subsistence	Gender, Data Quality	Northern Aranda	-24.25	133.5	Insular Pacific
+SCCS92	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Orokaiva	-8.5	148.0	Insular Pacific
+SCCS92	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Orokaiva	-8.5	148.0	Insular Pacific
+SCCS92	SCCS64	3.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Orokaiva	-8.5	148.0	Insular Pacific
+SCCS92	SCCS69	3.0	Marital Residence	Settlement, Community	Orokaiva	-8.5	148.0	Insular Pacific
+SCCS92	SCCS826	53.0	Average Female Contribution to Subsistence	Gender, Data Quality	Orokaiva	-8.5	148.0	Insular Pacific
+SCCS93	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Kimam	-7.5	138.5	Insular Pacific
+SCCS93	SCCS588	2.0	Community-wide Exclusively Female Work Groups	Gender	Kimam	-7.5	138.5	Insular Pacific
+SCCS93	SCCS64	2.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Kimam	-7.5	138.5	Insular Pacific
+SCCS93	SCCS69	3.0	Marital Residence	Settlement, Community	Kimam	-7.5	138.5	Insular Pacific
+SCCS93	SCCS826	33.0	Average Female Contribution to Subsistence	Gender, Data Quality	Kimam	-7.5	138.5	Insular Pacific
+SCCS94	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Mee	-4.0	136.0	Insular Pacific
+SCCS94	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Mee	-4.0	136.0	Insular Pacific
+SCCS94	SCCS64	6.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Mee	-4.0	136.0	Insular Pacific
+SCCS94	SCCS69	3.0	Marital Residence	Settlement, Community	Mee	-4.0	136.0	Insular Pacific
+SCCS94	SCCS826	67.0	Average Female Contribution to Subsistence	Gender, Data Quality	Mee	-4.0	136.0	Insular Pacific
+SCCS95	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Kwoma	-4.17	142.67	Insular Pacific
+SCCS95	SCCS588	2.0	Community-wide Exclusively Female Work Groups	Gender	Kwoma	-4.17	142.67	Insular Pacific
+SCCS95	SCCS64	5.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Kwoma	-4.17	142.67	Insular Pacific
+SCCS95	SCCS69	3.0	Marital Residence	Settlement, Community	Kwoma	-4.17	142.67	Insular Pacific
+SCCS95	SCCS826	49.0	Average Female Contribution to Subsistence	Gender, Data Quality	Kwoma	-4.17	142.67	Insular Pacific
+SCCS96	SCCS3	1.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Manus	-2.17	147.17	Insular Pacific
+SCCS96	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Manus	-2.17	147.17	Insular Pacific
+SCCS96	SCCS64	5.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Manus	-2.17	147.17	Insular Pacific
+SCCS96	SCCS69	3.0	Marital Residence	Settlement, Community	Manus	-2.17	147.17	Insular Pacific
+SCCS96	SCCS826		Average Female Contribution to Subsistence	Gender, Data Quality	Manus	-2.17	147.17	Insular Pacific
+SCCS97	SCCS3	5.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Lesu	-2.71	151.0	Insular Pacific
+SCCS97	SCCS588	2.0	Community-wide Exclusively Female Work Groups	Gender	Lesu	-2.71	151.0	Insular Pacific
+SCCS97	SCCS64	4.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Lesu	-2.71	151.0	Insular Pacific
+SCCS97	SCCS69	1.0	Marital Residence	Settlement, Community	Lesu	-2.71	151.0	Insular Pacific
+SCCS97	SCCS826	41.0	Average Female Contribution to Subsistence	Gender, Data Quality	Lesu	-2.71	151.0	Insular Pacific
+SCCS98	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Trobriands	-8.54	151.01	Insular Pacific
+SCCS98	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Trobriands	-8.54	151.01	Insular Pacific
+SCCS98	SCCS64	5.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Trobriands	-8.54	151.01	Insular Pacific
+SCCS98	SCCS69	2.0	Marital Residence	Settlement, Community	Trobriands	-8.54	151.01	Insular Pacific
+SCCS98	SCCS826	40.0	Average Female Contribution to Subsistence	Gender, Data Quality	Trobriands	-8.54	151.01	Insular Pacific
+SCCS99	SCCS3	6.0	Agriculture - Contribution to Local Food Supply	Subsistence, Economy	Siuai	-6.76	155.45	Insular Pacific
+SCCS99	SCCS588		Community-wide Exclusively Female Work Groups	Gender	Siuai	-6.76	155.45	Insular Pacific
+SCCS99	SCCS64	5.0	Population Density (from Murdock and Wilson Data)	Settlement, Community	Siuai	-6.76	155.45	Insular Pacific
+SCCS99	SCCS69	2.0	Marital Residence	Settlement, Community	Siuai	-6.76	155.45	Insular Pacific
+SCCS99	SCCS826	75.0	Average Female Contribution to Subsistence	Gender, Data Quality	Siuai	-6.76	155.45	Insular Pacific

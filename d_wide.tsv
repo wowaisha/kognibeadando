@@ -1,0 +1,187 @@
+soc_id	pref_name_for_society	Lat	Long	region	Agriculture - Contribution to Local Food Supply	Average Female Contribution to Subsistence	Community-wide Exclusively Female Work Groups	Marital Residence	Population Density (from Murdock and Wilson Data)
+SCCS1	Nama	-27.5	17.0	Africa	1.0	26.0		3.0	1.0
+SCCS10	Luguru	-6.83	37.67	Africa	6.0	40.0		1.0	7.0
+SCCS100	Tikopia	-12.29	168.83	Insular Pacific	6.0	30.0		3.0	6.0
+SCCS101	Bunlap	-15.95	168.22	Insular Pacific	6.0		1.0	3.0	4.0
+SCCS102	Mbau Fijians	-18.0	178.58	Insular Pacific	4.0	28.0		3.0	7.0
+SCCS103	Ajie	-21.33	165.67	Insular Pacific	5.0	47.0		3.0	3.0
+SCCS104	Māori	-35.33	174.17	Insular Pacific	5.0	31.0		3.0	2.0
+SCCS105	Marquesans	-8.92	-140.17	Insular Pacific	6.0	18.0	1.0	5.0	5.0
+SCCS106	Upolu Samoans	-13.94	-171.77	Insular Pacific	6.0	33.0		3.0	6.0
+SCCS107	Makin	3.38	172.99	Insular Pacific	6.0	41.0		3.0	6.0
+SCCS108	Marshallese - Jaluit Atoll	6.28	169.49	Insular Pacific	4.0	26.0		1.0	6.0
+SCCS109	Trukese	7.34	151.6	Insular Pacific	5.0	31.0		1.0	7.0
+SCCS11	Kikuyu	-0.67	37.17	Africa	6.0	47.0	2.0	3.0	6.0
+SCCS110	Yapese	9.52	138.16	Insular Pacific	6.0	41.0		3.0	5.0
+SCCS111	Palauans	7.5	134.5	Insular Pacific	6.0	49.0	2.0	2.0	5.0
+SCCS112	Ifugao	16.83	121.17	Insular Pacific	6.0	61.0		4.0	6.0
+SCCS113	Atayal	24.33	120.75	Insular Pacific	6.0	44.0	1.0	3.0	4.0
+SCCS114	Chekiang	31.0	120.08	East Eurasia	6.0	7.0		3.0	7.0
+SCCS115	Manchu	50.0	125.5	East Eurasia	6.0	34.0	1.0	3.0	6.0
+SCCS116	Koreans	37.6	126.42	East Eurasia	6.0	32.0		3.0	7.0
+SCCS117	Japanese	34.67	133.67	East Eurasia	6.0	38.0	1.0	3.0	7.0
+SCCS118	Ainu	42.83	143.0	East Eurasia	3.0	38.0		3.0	2.0
+SCCS119	Nivkh	53.0	142.0	East Eurasia	1.0	27.0	1.0	3.0	1.0
+SCCS12	Ganda	0.33	32.5	Africa	6.0	56.0		5.0	6.0
+SCCS120	Yukaghir	64.75	153.5	East Eurasia	1.0	0.0		4.0	1.0
+SCCS121	Chukchi	66.5	179.6	East Eurasia	1.0	23.0	1.0	3.0	1.0
+SCCS122	Deg Xit'an	62.5	-159.5	North America	1.0	26.0		1.0	1.0
+SCCS123	Aleut	55.0	-162.85	North America	1.0	35.0		3.0	4.0
+SCCS124	Copper Inuit	68.72	-112.53	North America	1.0	16.0		5.0	1.0
+SCCS125	Montagnais	50.0	-74.0	North America	1.0	32.0	1.0	3.0	1.0
+SCCS126	Mi'kmaq	46.99	-65.0	North America	1.0	8.0		5.0	1.0
+SCCS127	Northern Saulteaux	52.0	-95.5	North America	3.0	10.0	1.0	3.0	1.0
+SCCS128	DeneTha	62.0	-122.0	North America	3.0	10.0		3.0	2.0
+SCCS129	Kaska	60.0	-131.0	North America	1.0	24.0		1.0	1.0
+SCCS13	Mbuti	1.5	28.33	Africa	1.0	44.0	1.0	3.0	2.0
+SCCS130	Eyak	60.5	-145.0	North America	1.0	8.0		2.0	1.0
+SCCS131	Haida	54.0	-132.5	North America	2.0	33.0	1.0	2.0	2.0
+SCCS132	Nuxalk	52.33	-126.5	North America	1.0	32.0		3.0	3.0
+SCCS133	Twana	47.43	-123.25	North America	1.0	32.0	2.0	3.0	5.0
+SCCS134	Yurok	41.5	-124.0	North America	1.0	27.0		3.0	3.0
+SCCS135	Eastern Pomo	39.0	-123.0	North America	1.0	36.0	1.0	4.0	3.0
+SCCS136	Southern Valley Yokuts	35.0	-119.5	North America	1.0	21.0		3.0	4.0
+SCCS137	Wadadokado	43.5	-119.0	North America	1.0	40.0		4.0	1.0
+SCCS138	Klamath	42.63	-121.67	North America	1.0	44.0		3.0	2.0
+SCCS139	Kutenai	49.0	-116.67	North America	2.0	26.0	2.0	1.0	1.0
+SCCS14	Nkundo	-0.75	19.17	Africa	6.0	78.0		3.0	3.0
+SCCS140	Gros Ventre	48.0	-108.0	North America	1.0	26.0		3.0	1.0
+SCCS141	Hidatsa	47.0	-101.0	North America	6.0	79.0	1.0	1.0	1.0
+SCCS142	Pawnee	42.0	-100.0	North America	5.0	42.0		1.0	2.0
+SCCS143	Omaha	41.43	-96.5	North America	4.0	34.0	1.0	4.0	3.0
+SCCS144	Huron	44.5	-79.0	North America	5.0	46.0		1.0	5.0
+SCCS145	Muscogee	32.93	-86.0	North America	5.0	33.0	1.0	1.0	3.0
+SCCS146	Natchez	31.5	-91.42	North America	5.0	24.0		3.0	4.0
+SCCS147	Comanche	34.0	-101.5	North America	1.0	16.0	2.0	3.0	1.0
+SCCS148	Chiricahua	32.0	-109.5	North America	3.0	55.0		1.0	1.0
+SCCS149	Zuni	35.67	-108.75	North America	6.0	21.0	1.0	1.0	3.0
+SCCS15	Banen	4.67	10.8	Africa	6.0	70.0	2.0	3.0	4.0
+SCCS150	Havasupai	35.83	-112.17	North America	6.0	33.0		3.0	1.0
+SCCS151	Tohono O'odham	32.0	-112.0	North America	5.0	38.0	2.0	3.0	5.0
+SCCS152	Huichol	22.0	-105.0	North America	5.0	31.0		4.0	3.0
+SCCS153	Aztec	19.0	-99.17	North America	5.0	35.0	1.0	3.0	7.0
+SCCS154	Sierra Popoluca	18.25	-94.83	North America	6.0	33.0		3.0	5.0
+SCCS155	K'iche'	15.0	-91.0	South America	6.0	3.0	1.0	3.0	5.0
+SCCS156	Miskito	15.16	-84.29	South America	5.0	43.0		1.0	4.0
+SCCS157	Bribri	9.0	-83.25	South America	5.0	4.0	1.0	1.0	
+SCCS158	Guna	9.25	-78.5	South America	6.0	13.0		1.0	5.0
+SCCS159	Wayuu	11.92	-71.75	South America	3.0	31.0	2.0	1.0	2.0
+SCCS16	Tiv	7.25	9.0	Africa	6.0	54.0		3.0	5.0
+SCCS160	Haitians	18.83	-72.17	South America	6.0	14.0		3.0	6.0
+SCCS161	Callinago	15.41	-61.27	South America	5.0	35.0		1.0	4.0
+SCCS162	Warao	9.08	-62.0	South America	3.0	16.0		1.0	2.0
+SCCS163	Yanomami	2.42	-65.0	South America	6.0	20.0	1.0	3.0	2.0
+SCCS164	Barama River Carib	7.42	-60.17	South America	4.0	16.0		5.0	1.0
+SCCS165	Saramaccan 	3.5	-55.75	South America	5.0	37.0	2.0	2.0	4.0
+SCCS166	Munduruku	-6.5	-56.5	South America	5.0	27.0		1.0	1.0
+SCCS167	Cubeo	1.25	-70.5	South America	5.0	34.0	1.0	3.0	2.0
+SCCS168	Chachi	1.0	-79.0	South America	5.0	31.0		4.0	3.0
+SCCS169	Shuar	-3.0	-78.0	South America	5.0	50.0		3.0	2.0
+SCCS17	Igbo	5.5	7.33	Africa	6.0	48.0	1.0	3.0	7.0
+SCCS170	Amahuaca	-10.33	-72.25	South America	6.0	32.0		3.0	1.0
+SCCS171	Inca	-13.5	-72.0	South America	6.0	36.0	1.0	3.0	4.0
+SCCS172	Aymara	-16.0	-65.75	South America	5.0	38.0		3.0	6.0
+SCCS173	Sirionó	-14.5	-63.5	South America	3.0	21.0	1.0	1.0	1.0
+SCCS174	Nambikwara	-13.0	-58.75	South America	4.0	25.0		3.0	2.0
+SCCS175	Trumai	-11.83	-53.67	South America	5.0	33.0	1.0	3.0	1.0
+SCCS176	Canela	-6.5	-46.0	South America	5.0	34.0		1.0	3.0
+SCCS177	Tupinambá	-22.79	-44.5	South America	5.0	30.0	1.0	1.0	2.0
+SCCS178	Aimoré	-19.0	-42.5	South America	1.0	4.0			1.0
+SCCS179	Shavante	-13.5	-51.5	South America	3.0	32.0	2.0	1.0	1.0
+SCCS18	Fon	7.2	1.91	Africa	5.0	38.0		3.0	5.0
+SCCS180	Aweikoma	-28.0	-50.0	South America	1.0	17.0		4.0	1.0
+SCCS181	Cayua	-23.5	-55.0	South America	4.0	29.0	2.0	3.0	2.0
+SCCS182	Lengua	-23.0	-58.5	South America	4.0	9.0		1.0	1.0
+SCCS183	Abipón	-28.0	-59.5	South America	1.0	25.0	2.0	5.0	2.0
+SCCS184	Mapuche	-38.5	-72.58	South America	6.0	21.0		3.0	5.0
+SCCS185	Tehuelche	-40.5	-68.0	South America	1.0	4.0	2.0	3.0	1.0
+SCCS186	Yahgan	-55.5	-69.5	South America	1.0	65.0		3.0	2.0
+SCCS19	Ashanti	7.0	-1.5	Africa	6.0	59.0		2.0	5.0
+SCCS2	!Kung	-19.83	20.58	Africa	1.0	19.0		4.0	1.0
+SCCS20	Mende	7.83	-12.0	Africa	6.0	39.0		3.0	5.0
+SCCS21	Wolof	13.75	-15.33	Circum-Mediterranean	6.0	23.0	2.0	3.0	6.0
+SCCS22	Bambara	12.5	-7.0	Africa	6.0	39.0		3.0	4.0
+SCCS23	Tallensi	10.66	-0.57	Africa	6.0	20.0	1.0	3.0	6.0
+SCCS24	Songhai	16.58	-1.67	Circum-Mediterranean	5.0	19.0		3.0	4.0
+SCCS25	Wodaabe Fulani	15.0	7.5	Circum-Mediterranean	3.0	77.0	1.0	3.0	3.0
+SCCS26	Zazzagawa Hausa	10.5	7.5	Circum-Mediterranean	6.0	14.0		3.0	5.0
+SCCS27	Masa	10.5	15.5	Africa	5.0	27.0	2.0	3.0	5.0
+SCCS28	Azande	5.08	28.25	Africa	5.0	43.0		3.0	3.0
+SCCS29	Fur	13.5	25.5	Circum-Mediterranean	5.0	41.0	1.0	1.0	4.0
+SCCS3	Tsonga	-25.83	32.33	Africa	6.0	71.0	2.0	3.0	6.0
+SCCS30	Otoro	11.33	30.67	Africa	6.0	35.0		3.0	4.0
+SCCS31	Shilluk	9.75	31.5	Africa	6.0	17.0		3.0	5.0
+SCCS32	Mao	9.27	34.67	Africa	6.0	28.0		3.0	4.0
+SCCS33	Kafa	7.27	36.5	Circum-Mediterranean	6.0	23.0		3.0	5.0
+SCCS34	Maasi	-3.5	36.75	Africa	1.0	58.0		3.0	3.0
+SCCS35	Konso	5.25	37.5	Circum-Mediterranean	6.0	37.0	1.0	3.0	6.0
+SCCS36	Somali (Dolbahanta)	9.0	47.25	Circum-Mediterranean	3.0	50.0		3.0	4.0
+SCCS37	Amhara	12.5	37.75	Circum-Mediterranean	5.0	13.0		3.0	5.0
+SCCS38	Blin	15.75	38.75	Circum-Mediterranean	4.0	0.0		3.0	3.0
+SCCS39	Barabra	23.0	39.11	Circum-Mediterranean	6.0	43.0	2.0	3.0	
+SCCS4	Lozi	-16.0	23.5	Africa	5.0	30.0		3.0	4.0
+SCCS40	Teda	20.5	17.5	Circum-Mediterranean	3.0	34.0		3.0	1.0
+SCCS41	Tuareg Ahaggar	23.0	6.5	Circum-Mediterranean	4.0	46.0	1.0	2.0	1.0
+SCCS42	Riffians	34.92	-3.25	Circum-Mediterranean	6.0	27.0		3.0	6.0
+SCCS43	Egyptians	24.75	33.0	Circum-Mediterranean	6.0	10.0	1.0	3.0	7.0
+SCCS44	Hebrews	31.18	34.92	Circum-Mediterranean	5.0	2.0		3.0	7.0
+SCCS45	Babylonians	32.58	44.75	Circum-Mediterranean	6.0	0.0		3.0	7.0
+SCCS46	Rwala	33.25	38.5	Circum-Mediterranean	1.0	13.0		3.0	2.0
+SCCS47	Turks	39.33	34.25	Circum-Mediterranean	6.0	49.0	1.0	3.0	5.0
+SCCS48	Gheg	42.0	20.17	Circum-Mediterranean	5.0	52.0		3.0	5.0
+SCCS49	Ancient Romans	41.67	13.5	Circum-Mediterranean	4.0		1.0	3.0	7.0
+SCCS5	Mbundu	-12.25	16.5	Africa	6.0	43.0	2.0	3.0	4.0
+SCCS50	Spanish Basques	43.25	-1.67	Circum-Mediterranean	6.0	32.0		3.0	4.0
+SCCS51	Irish	53.5	-10.0	Circum-Mediterranean	6.0	18.0	2.0	3.0	5.0
+SCCS52	Sami	68.7	21.5	Circum-Mediterranean	3.0	49.0		3.0	3.0
+SCCS53	Yurak-Samoyeds	68.0	51.5	East Eurasia	3.0	11.0	1.0	3.0	1.0
+SCCS54	Russians	52.67	41.33	Circum-Mediterranean	6.0	58.0		5.0	4.0
+SCCS55	Abkhaz	43.13	40.77	Circum-Mediterranean	4.0	8.0	1.0	3.0	5.0
+SCCS56	Armenians	40.0	44.5	Circum-Mediterranean	6.0	37.0		3.0	5.0
+SCCS57	Kurd	36.5	44.5	Circum-Mediterranean	5.0	25.0	1.0	3.0	6.0
+SCCS58	Basseri	29.0	53.0	East Eurasia	4.0	32.0		3.0	3.0
+SCCS59	Punjabi	32.5	74.0	East Eurasia	6.0	10.0		3.0	6.0
+SCCS6	Suku	-6.0	18.0	Africa	6.0	70.0		3.0	4.0
+SCCS60	Madia	19.63	80.92	East Eurasia	5.0	18.0		3.0	4.0
+SCCS61	Toda	11.5	76.5	East Eurasia	1.0	13.0	1.0	3.0	5.0
+SCCS62	Santal	23.5	87.17	East Eurasia	6.0	22.0		3.0	6.0
+SCCS63	Uttar Pradesh	25.92	83.0	East Eurasia	6.0	25.0	1.0	3.0	7.0
+SCCS64	Burusho	36.43	74.58	East Eurasia	6.0	18.0		3.0	3.0
+SCCS65	Kazakh	42.5	75.5	East Eurasia	2.0	21.0		3.0	3.0
+SCCS66	Khalka	47.17	96.08	East Eurasia	3.0	53.0		3.0	3.0
+SCCS67	Lolo	27.5	103.5	East Eurasia	6.0	41.0	1.0	3.0	3.0
+SCCS68	Lepcha	27.5	89.0	East Eurasia	5.0	53.0		3.0	5.0
+SCCS69	Garo	26.0	91.0	East Eurasia	5.0	35.0		1.0	5.0
+SCCS7	Bemba	-10.5	30.5	Africa	5.0	41.0	2.0	1.0	3.0
+SCCS70	Maras	22.33	93.0	East Eurasia	6.0	49.0		3.0	4.0
+SCCS71	Burmese	22.0	95.67	East Eurasia	5.0	18.0	2.0	1.0	6.0
+SCCS72	Lamet	20.0	100.67	East Eurasia	5.0	28.0		3.0	1.0
+SCCS73	Annamese	20.5	106.25	East Eurasia	6.0	16.0		3.0	7.0
+SCCS74	Rade	13.0	108.0	East Eurasia	6.0	37.0		1.0	7.0
+SCCS75	Ancient Khmer	13.0	103.83	East Eurasia	6.0	29.0		5.0	5.0
+SCCS76	Thai	14.0	100.85	East Eurasia	6.0	34.0		1.0	6.0
+SCCS77	Semang	5.0	101.25	East Eurasia	3.0	29.0	2.0	3.0	1.0
+SCCS78	Nicobarese	7.0	93.75	East Eurasia	6.0	38.0		1.0	5.0
+SCCS79	Andamanese	12.0	93.0	East Eurasia	1.0	32.0		4.0	3.0
+SCCS8	Nyakyusa	-9.5	34.0	Africa	6.0	41.0		5.0	5.0
+SCCS80	Vedda	7.75	81.25	East Eurasia	3.0	7.0		1.0	1.0
+SCCS81	Tanala	-22.0	48.0	East Eurasia	6.0	37.0	1.0	3.0	3.0
+SCCS82	Negri Sembilan	2.58	102.25	East Eurasia	6.0	52.0		1.0	7.0
+SCCS83	Javanese	-7.7	112.22	Insular Pacific	6.0	34.0	1.0	1.0	7.0
+SCCS84	Balinese	-8.5	115.33	Insular Pacific	5.0	7.0		3.0	7.0
+SCCS85	Iban	2.0	113.0	Insular Pacific	6.0	44.0	1.0	4.0	4.0
+SCCS86	Badjau Tawi-Tawi	5.0	120.0	Insular Pacific	3.0	44.0		4.0	1.0
+SCCS87	Toradja	-2.0	121.0	Insular Pacific	6.0	45.0	2.0	1.0	4.0
+SCCS88	Tobelorese	2.0	127.94	Insular Pacific	6.0	45.0		1.0	4.0
+SCCS89	Alorese	-8.33	124.67	Insular Pacific	6.0	63.0	1.0	3.0	7.0
+SCCS9	Hadza	-3.75	35.18	Africa	1.0	50.0	2.0	1.0	2.0
+SCCS90	Tiwi	-11.38	131.0	Insular Pacific	1.0	46.0		3.0	2.0
+SCCS91	Northern Aranda	-24.25	133.5	Insular Pacific	1.0	26.0	1.0	3.0	2.0
+SCCS92	Orokaiva	-8.5	148.0	Insular Pacific	6.0	53.0		3.0	3.0
+SCCS93	Kimam	-7.5	138.5	Insular Pacific	6.0	33.0	2.0	3.0	2.0
+SCCS94	Mee	-4.0	136.0	Insular Pacific	5.0	67.0		3.0	6.0
+SCCS95	Kwoma	-4.17	142.67	Insular Pacific	5.0	49.0	2.0	3.0	5.0
+SCCS96	Manus	-2.17	147.17	Insular Pacific	1.0			3.0	5.0
+SCCS97	Lesu	-2.71	151.0	Insular Pacific	5.0	41.0	2.0	1.0	4.0
+SCCS98	Trobriands	-8.54	151.01	Insular Pacific	6.0	40.0		2.0	5.0
+SCCS99	Siuai	-6.76	155.45	Insular Pacific	6.0	75.0		2.0	5.0
